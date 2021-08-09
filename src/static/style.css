@@ -1,0 +1,1788 @@
+.background-detail-custom {
+    background: #fff;
+}
+
+.background-menuleft {
+    background: darkslategray;
+}
+.box-shadow {
+    box-shadow: 0 3px 6px -4px rgba(0, 0, 0, 0.12), 0 6px 16px 0 rgba(0, 0, 0, 0.08), 0 9px 28px 8px rgba(0, 0, 0, 0.05);
+}
+
+.ant-form-item-label {
+    text-align: left !important;
+}
+.fix-height {
+    height: 100vh;
+}
+.ant-menu-item-selected {
+    background: transparent !important;
+}
+.dropdown-item.active {
+    background: transparent !important;
+}
+
+a {
+    text-decoration: none !important;
+}
+/* login */
+/* 
+body {
+    color: #000;
+    overflow-x: hidden;
+    height: 100%;
+    background-color: #B0BEC5;
+    background-repeat: no-repeat
+} */
+
+.card0 {
+    box-shadow: 0px 4px 8px 0px #757575;
+    border-radius: 0px;
+}
+
+.navbar-brand {
+    margin-top: 5px;
+}
+
+.card2 {
+    margin: 0px 40px;
+}
+
+.logo {
+    width: 200px;
+    height: 100px;
+    margin-top: 20px;
+    margin-left: 35px;
+}
+
+.image {
+    width: 360px;
+    height: 280px;
+}
+
+.border-line {
+    border-right: 1px solid #eeeeee;
+}
+
+.facebook {
+    background-color: #3b5998;
+    color: #fff;
+    font-size: 18px;
+    padding-top: 5px;
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+    cursor: pointer;
+}
+
+.twitter {
+    background-color: #1da1f2;
+    color: #fff;
+    font-size: 18px;
+    padding-top: 5px;
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+    cursor: pointer;
+}
+
+.linkedin {
+    background-color: #2867b2;
+    color: #fff;
+    font-size: 18px;
+    padding-top: 5px;
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+    cursor: pointer;
+}
+
+.line {
+    height: 1px;
+    width: 45%;
+    background-color: #e0e0e0;
+    margin-top: 10px;
+}
+
+.or {
+    width: 10%;
+    font-weight: bold;
+}
+
+.text-sm {
+    font-size: 14px !important;
+}
+
+::placeholder {
+    color: #bdbdbd;
+    opacity: 1;
+    font-weight: 300;
+}
+
+:-ms-input-placeholder {
+    color: #bdbdbd;
+    font-weight: 300;
+}
+
+::-ms-input-placeholder {
+    color: #bdbdbd;
+    font-weight: 300;
+}
+
+input,
+textarea {
+    padding: 10px 12px 10px 12px;
+    border: 1px solid lightgrey;
+    border-radius: 2px;
+    margin-bottom: 5px;
+    margin-top: 2px;
+    width: 100%;
+    box-sizing: border-box;
+    color: #2c3e50;
+    font-size: 14px;
+    letter-spacing: 1px;
+}
+
+input:focus,
+textarea:focus {
+    -moz-box-shadow: none !important;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+    border: 1px solid #304ffe;
+    outline-width: 0;
+}
+
+button:focus {
+    -moz-box-shadow: none !important;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+    outline-width: 0;
+}
+
+a {
+    color: inherit;
+    cursor: pointer;
+}
+
+.btn-blue {
+    background-color: #1a237e;
+    width: 150px;
+    color: #fff;
+    border-radius: 2px;
+}
+
+.btn-blue:hover {
+    background-color: #000;
+    cursor: pointer;
+}
+
+.bg-blue {
+    color: #fff;
+    background-color: #1a237e;
+}
+
+@media screen and (max-width: 991px) {
+    .logo {
+        margin-left: 0px;
+    }
+
+    .image {
+        width: 300px;
+        height: 220px;
+    }
+
+    .border-line {
+        border-right: none;
+    }
+
+    .card2 {
+        border-top: 1px solid #eeeeee !important;
+        margin: 0px 15px;
+    }
+}
+
+/* .............................................................. */
+
+.custom-print {
+    position: absolute !important;
+    margin-top: 230px;
+    margin-left: 360px;
+    z-index: 1;
+}
+
+.custom-print-2 {
+    position: absolute !important;
+    margin-top: 230px;
+    margin-left: 490px;
+    z-index: 1;
+}
+
+.custom-font-bienlai {
+    font-size: 12px;
+    font-weight: bold;
+}
+.text-title-custom-bienlai {
+    text-align: center;
+}
+.test {
+    color: lightskyblue;
+}
+
+.site-calendar-demo-card {
+    width: 500px;
+    border: 1px solid #f0f0f0;
+    border-radius: 2px;
+    margin: 20px 0 20px 500px;
+}
+
+/* ERROR
+*/
+
+/*
+HTML 5 Template Name: 
+File: 404 - 15 CSS
+Author: OS Templates
+Author URI: https://www.os-templates.com/
+Licence: <a href="https://www.os-templates.com/template-terms">Website Template Licence</a>
+*/
+
+#fof {
+    display: block;
+    width: 100%;
+    padding: 150px 0;
+    line-height: 1.6em;
+}
+#fof .fl_left {
+    padding-top: 40px;
+    text-align: center;
+}
+#fof .fl_left img {
+    margin-bottom: 20px;
+}
+#fof .fl_left input {
+    width: 220px;
+    padding: 5px;
+    border: 1px solid #cccccc;
+}
+#fof .fl_left #submit {
+    width: auto;
+}
+#fof .fl_right {
+    width: 50%;
+}
+#fof .fl_right h1 {
+    font-size: 40px;
+    margin: 0;
+    padding: 0;
+}
+#fof .fl_right p {
+    display: block;
+    margin: 15px 0 0 0;
+    padding: 0;
+    font-size: 16px;
+}
+#fof .fl_right ul {
+    margin: 15px 0 0 0;
+    padding: 0;
+    list-style: none;
+}
+#fof .fl_right ul li {
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #cccccc;
+}
+
+/* CSS3 Elements Only Work In Latest Browsers */
+
+/* IE9 and below don't support CSS generated columns */
+
+#fof .fl_right ul {
+    -moz-column-count: 2;
+    -webkit-column-count: 2;
+    column-count: 2;
+}
+
+/* Phiếu bán hàng  */
+.custom-border {
+    border: 1px #bdbdbd solid;
+}
+.custom-text {
+    font-family: Verdana, Geneva, Tahoma, sans-serif !important;
+}
+/* ......................End.................. */
+
+.dropdown-toggle::after {
+    display: none !important;
+    margin-left: 0.255em;
+    vertical-align: 0.255em;
+    content: "";
+    border-top: 0.3em solid;
+    border-right: 0.3em solid transparent;
+    border-bottom: 0;
+    border-left: 0.3em solid transparent;
+}
+
+/* drop down */
+
+.dropdown1 {
+    padding: 0 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    position: relative;
+    font-size: 18px;
+    perspective: 1000px;
+    z-index: 100;
+}
+.dropdown1:hover {
+    cursor: pointer;
+    color: #ffac4b;
+}
+.dropdown1:hover .dropdown_menu li {
+    display: block;
+}
+.dropdown_menu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    perspective: 1000px;
+    z-index: -1;
+    /* margin-top: 2px; */
+}
+
+.dropdown_menu li {
+    display: none;
+    color: black;
+    background-color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    opacity: 0;
+    width: 220px;
+    margin-left: 40px;
+}
+.dropdown_menu li:hover {
+    color: #ffac4b;
+}
+.dropdown1:hover .dropdown_menu--animated {
+    display: block;
+}
+.dropdown_menu--animated {
+    display: none;
+}
+.dropdown_menu--animated li {
+    display: block;
+    opacity: 1;
+}
+
+.dropdown_menu-5 .dropdown_item-1 {
+    transform-origin: top center;
+    animation: translateX 300ms 60ms ease-in-out forwards;
+}
+.dropdown_menu-5 .dropdown_item-2 {
+    transform-origin: top center;
+    animation: translateX 300ms 120ms ease-in-out forwards;
+}
+.dropdown_menu-5 .dropdown_item-3 {
+    transform-origin: top center;
+    animation: translateX 300ms 180ms ease-in-out forwards;
+}
+.dropdown_menu-5 .dropdown_item-4 {
+    transform-origin: top center;
+    animation: translateX 300ms 240ms ease-in-out forwards;
+}
+.dropdown_menu-5 .dropdown_item-5 {
+    transform-origin: top center;
+    animation: translateX 300ms 300ms ease-in-out forwards;
+}
+.dropdown_menu-5 .dropdown_item-6 {
+    transform-origin: top center;
+    animation: translateX 300ms 340ms ease-in-out forwards;
+}
+.dropdown_menu-5 .dropdown_item-7 {
+    transform-origin: top center;
+    animation: translateX 300ms 380ms ease-in-out forwards;
+}
+.dropdown_menu-5 .dropdown_item-8 {
+    transform-origin: top center;
+    animation: translateX 300ms 420ms ease-in-out forwards;
+}
+@-moz-keyframes translateX {
+    0% {
+        opacity: 0;
+        transform: translateX(60px);
+    }
+    80% {
+        transform: translateX(-5px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateX(0px);
+    }
+}
+@-webkit-keyframes translateX {
+    0% {
+        opacity: 0;
+        transform: translateX(60px);
+    }
+    80% {
+        transform: translateX(-5px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateX(0px);
+    }
+}
+@-o-keyframes translateX {
+    0% {
+        opacity: 0;
+        transform: translateX(60px);
+    }
+    80% {
+        transform: translateX(-5px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateX(0px);
+    }
+}
+@keyframes translateX {
+    0% {
+        opacity: 0;
+        transform: translateX(60px);
+    }
+    80% {
+        transform: translateX(-5px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateX(0px);
+    }
+}
+
+/* dropdown login */
+.ant-dropdown-menu-item {
+    width: 170px;
+    height: 38px;
+}
+.ant-dropdown-menu-item-only-child a {
+    color: black;
+}
+.ant-dropdown-menu-item > a,
+.ant-dropdown-menu-submenu-title > a {
+    padding: 5px 5px !important;
+}
+
+/* carousel img */
+
+/* .slick-slider,
+.slick-initialized {
+    padding-left: 33px;
+}
+.slick-prev,
+.slick-next {
+    background-color: rgba(0, 0, 0, 0.363) !important;
+    width: 30px !important;
+    height: 60px !important;
+}
+
+.slick-prev {
+    left: 33px !important;
+    z-index: 3 !important;
+}
+.slick-next {
+    right: 27px !important;
+    z-index: 3 !important;
+} */
+
+.caption-title {
+    position: absolute;
+    bottom: 15px;
+    background: #fff;
+    padding: 21px 34px 21px 15px;
+}
+
+.caption-title:hover {
+    color: #ffac4b;
+}
+
+.caption-img {
+    width: 330px;
+}
+
+/* hot deal*/
+@import url("https://fonts.googleapis.com/css2?family=Maven+Pro:wght@400;475;571;900&display=swap");
+.hot-deal-title-1 {
+    margin-top: 70px;
+    display: flex;
+    font-family: "Maven Pro", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-size-adjust: 100%;
+    justify-content: center;
+}
+
+.hot-deal-title-1 img {
+    height: 40px;
+    margin-top: 10px;
+}
+.hot-deal-title-1 strong {
+    font-size: 30px;
+}
+
+.hot-deal-title-2 p {
+    text-align: center;
+    font-size: 15px;
+    font-family: "MavenPro Medium", sans-serif;
+    line-height: normal;
+    letter-spacing: 2.2px;
+    margin-bottom: 40px;
+}
+
+.hot-deal-img-1 {
+    background-image: url("https://bizweb.dktcdn.net/100/331/067/themes/823156/assets/bg_deal.jpg");
+    background-position: right;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/* card hot deal */
+.site-card-wrapper {
+    display: flex;
+}
+
+.card-hot-deal {
+    width: 100%;
+    height: 500px;
+}
+
+.card-hot-deal-card {
+    width: 95%;
+    height: 400px;
+    background-color: white;
+    margin-top: 50px;
+    display: flex;
+}
+
+.card-hot-deal-title {
+    width: 50%;
+    height: 400px;
+    padding-top: 70px;
+    padding-left: 24px;
+}
+
+.card-hot-deal-img {
+    width: 50%;
+    height: 400px;
+}
+.card-hot-deal-img-1 {
+    width: 100%;
+    height: 300px;
+    padding-top: 50px;
+    margin-top: 40px;
+}
+/* timer countdown */
+
+.timer {
+    flex: column;
+    align-items: center;
+    justify-content: center;
+    padding-top: 1.5em;
+}
+
+.timer div:first-child {
+    text-align: left;
+}
+
+.timer-icon {
+    font-size: 8em;
+}
+
+.timer div:last-child {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+}
+
+section strong:first-child,
+section p:first-child,
+.timer div:last-child span {
+    font-size: 2em;
+    font-family: "MavenPro";
+    color: #ffac4b;
+}
+
+.card-hot-deal-giohang {
+    margin-top: 40px;
+}
+.ant-btn:hover,
+.ant-btn:focus {
+    background-color: #fd7e14 !important;
+    color: black !important;
+}
+@media screen and (max-width: 480px) {
+    .timer div:last-child {
+        margin-left: 2em;
+        margin-right: 2em;
+        padding: 3em 1em;
+    }
+}
+
+/* NEW ARRIVAL */
+.new-arrival-title {
+    font-family: "Maven Pro", sans-serif;
+    text-align: center;
+    margin-top: 60px;
+}
+
+.new-arrival-title strong {
+    font-size: 30px;
+}
+
+.ant-tabs-tab.ant-tabs-tab-active .ant-tabs-tab-btn {
+    color: #ffac4b !important;
+    font-size: 25px !important;
+}
+.ant-tabs-tab-btn {
+    font-family: "Maven Pro", sans-serif !important;
+    font-weight: bold !important;
+}
+.ant-tabs-ink-bar {
+    background-color: #ffac4b !important;
+}
+
+/* card */
+
+.card-item-1 {
+    width: 100%;
+    height: 800px;
+}
+
+.card-price-name {
+    width: 100%;
+    height: 140px;
+    text-align: center;
+    margin-top: 80px;
+}
+a {
+    font-size: 16px;
+}
+a:hover {
+    color: #ffac4b !important;
+}
+strong {
+    font-size: 16px;
+}
+
+.wrapper-1 {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    height: 660px;
+}
+
+.card-1 {
+    width: 100%;
+    height: 660px;
+    padding: 1.5rem;
+    background: white;
+    position: relative;
+    display: flex;
+    align-items: flex-end;
+    transition: 0.4s ease-out;
+}
+
+.card-1:hover:before {
+    opacity: 1;
+}
+.card-1:hover .info {
+    opacity: 1;
+    transform: translateY(0px);
+}
+.card-1:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: block;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    z-index: 2;
+    transition: 0.5s;
+    opacity: 0;
+}
+.card-1 img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.card-1 .info {
+    position: relative;
+    z-index: 3;
+    color: white;
+    opacity: 0;
+    transform: translateY(30px);
+    transition: 0.5s;
+}
+.card-1 .info h1 {
+    margin: 0px;
+}
+.card-1 .info p {
+    letter-spacing: 1px;
+    font-size: 15px;
+    margin-top: 8px;
+}
+.card-1 .info button {
+    outline: none;
+    border: none;
+    background: white;
+    color: black;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.4s ease;
+}
+.card-1 .info button:hover {
+    color: #ffac4b;
+}
+
+.card-1 .info button {
+    padding: 10px;
+    width: 60px;
+    margin-bottom: 20px;
+}
+
+.card-1 .info {
+    bottom: 45%;
+    left: 45%;
+}
+
+/* cardTshirt */
+
+.card-product-list {
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+.product-info {
+    width: 100%;
+    height: 18px;
+    margin-bottom: 5px;
+}
+p .product-price {
+    width: 100%;
+    height: 24px;
+    margin-bottom: 20px;
+}
+.ant-card-body {
+    padding: 0px !important;
+}
+
+.select-img {
+    width: 100%;
+    height: 56px;
+    margin-top: 10px;
+}
+
+/* card all T-shirt */
+.wrapper-2 {
+    width: 100%;
+    justify-content: space-around;
+    height: 270px;
+}
+.big-image {
+    height: 270px;
+    width: 100%;
+    background: white;
+    position: relative;
+    align-items: flex-end;
+    transition: 0.4s ease-out;
+}
+
+.big-image:hover:before {
+    opacity: 1;
+}
+.big-image:hover .info-T-shirt-all {
+    opacity: 1;
+    transform: translateY(0px);
+}
+.big-image:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: block;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.4);
+    z-index: 2;
+    transition: 0.5s;
+    opacity: 0;
+}
+.big-image img {
+    width: 100%;
+    top: 0;
+    left: 0;
+}
+.big-image .info-T-shirt-all {
+    position: relative;
+    text-align: center;
+    z-index: 3;
+    color: white;
+    opacity: 0;
+    transform: translateY(30px);
+    transition: 0.5s;
+    bottom: 65%;
+}
+
+.big-image .info-T-shirt-all button {
+    outline: none;
+    border: none;
+    background: white;
+    color: black;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.4s ease;
+    margin-bottom: 13px;
+}
+.big-image .info-T-shirt-all button:hover {
+    color: #ffac4b;
+}
+
+.big-image .info-T-shirt-all button {
+    width: 50px;
+    height: 40px;
+}
+
+/* BEST SELLER */
+.best-seller-title {
+    font-family: "Maven Pro", sans-serif;
+    text-align: center;
+    margin-top: 100px;
+}
+.best-seller-title strong {
+    font-size: 30px;
+}
+
+/* banner */
+.section-video {
+    width: 100%;
+    height: 524px;
+}
+
+.banner-all {
+    display: flex;
+    width: 100%;
+}
+
+.banner-bo-suu-tap {
+    background-image: url("https://bizweb.dktcdn.net/100/331/067/themes/823156/assets/img_left_collection.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 524px;
+    text-align: right;
+}
+.banner-bo-suu-tap p {
+    color: #fff;
+    font-size: 22px;
+    font-family: "MavenPro Medium";
+    padding-top: 120px;
+    padding-right: 70px;
+    padding-bottom: 40px;
+}
+.banner-bo-suu-tap .heading a h1 {
+    color: #ffac4b;
+    font-size: 77.26px;
+    font-family: "MavenPro Medium";
+    padding-right: 70px;
+    line-height: 80px;
+}
+
+.banner-bo-suu-tap .heading h1:hover {
+    color: whitesmoke;
+}
+
+.link-video {
+    background-image: url("https://bizweb.dktcdn.net/100/331/067/themes/823156/assets/img_right_collection.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 524px;
+    text-align: center;
+}
+.link-video a img {
+    padding-top: 220px;
+}
+
+/* ĐANG KHUYẾN MÃI */
+.hangkhuyenmai-title {
+    font-family: "Maven Pro", sans-serif;
+    text-align: center;
+    margin-top: 100px;
+}
+.hangkhuyenmai-title strong {
+    font-size: 30px;
+}
+
+.phantramgiam {
+    box-sizing: content-box;
+    height: 19px;
+    width: 55px;
+    position: absolute;
+    font-family: "MavenPro Medium";
+    text-align: center;
+    text-transform: none;
+    background-image: url("//bizweb.dktcdn.net/100/331/067/themes/823156/assets/i_sale.png?1624039894840");
+    left: 10px;
+    top: 6px;
+    color: #fff;
+    font-size: 13px;
+}
+
+.phantramgiam-detail {
+    width: 53px;
+    height: 23px;
+    line-height: 23px;
+    position: absolute;
+    background-image: url("//bizweb.dktcdn.net/100/331/067/themes/823156/assets/img_discount.png?1625781737674");
+    color: #ffac4b;
+    right: 36%;
+    top: 6.5%;
+    font-size: 14px;
+    font-family: "MavenPro Medium";
+    text-align: center;
+    text-transform: none;
+    display: inline-block;
+    padding-right: 5px;
+}
+
+/* eyes puick-view-product */
+.quick-view-product {
+    width: 100%;
+}
+
+/* slick modal */
+.modal-title {
+    width: 100%;
+    height: 34px;
+}
+
+.modal-title h3 {
+    font-family: "MavenPro";
+    margin: 0px 0 10px;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35px;
+    color: #333;
+}
+
+.modal-money {
+    margin-top: 30px;
+    border-bottom: 1px solid #d7d7d7;
+    padding-bottom: 23px;
+}
+.modal-money strong {
+    font-size: 30px;
+    color: #ffac4b;
+    line-height: 30px;
+}
+.modal-money strike {
+    padding-left: 40px;
+    font-size: 18px;
+}
+
+.modal-brand {
+    width: 100%;
+    height: 100px;
+    margin-top: 30px;
+}
+.modal-brand .first-status p {
+    width: 100%;
+    font-size: 15px;
+}
+.second-status p {
+    width: 100%;
+    font-size: 15px;
+    margin-top: 30px;
+}
+
+.kichthuoc span {
+    width: 100%;
+    height: 30px;
+    font-size: 15px;
+}
+.kichthuoc p {
+    margin-left: 15px;
+}
+
+.rendersize {
+    display: flex;
+}
+.rendersize p {
+    text-align: center;
+    margin-top: 35px;
+    margin-left: 30px;
+    background-color: #ffac4b;
+}
+
+.chitiet-sanpham {
+    margin-top: 60px;
+    width: 100%;
+    height: 100px;
+}
+.chitiet-sanpham strong:hover {
+    color: white;
+}
+.slick-modal {
+    width: 100%;
+    height: 600px;
+}
+
+.slick-slide img {
+    margin: auto;
+    height: 430px;
+}
+
+/* Detail Product */
+.breadcrumb_background {
+    position: absolute;
+    background-image: url("https://bizweb.dktcdn.net/100/331/067/themes/823156/assets/bg_breadcrumb.png");
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+    height: 292px;
+    width: 100%;
+    top: 0%;
+}
+
+.ant-form-item-label > label.ant-form-item-required:not(.ant-form-item-required-mark-optional)::before {
+    display: none !important;
+    margin-right: 4px;
+    color: #ff4d4f;
+    font-size: 14px;
+    font-family: SimSun, sans-serif;
+    line-height: 1;
+    content: "" !important;
+}
+
+.a-left {
+    font-family: "MavenPro Medium";
+    color: white;
+    margin: 0;
+    padding: 0;
+    border-radius: 0;
+    background-color: transparent;
+    width: 100%;
+    display: block;
+    text-align: center;
+    margin-top: 180px;
+}
+
+.a-left p {
+    font-size: 18px;
+}
+
+.a-left span {
+    color: #ffac4b;
+}
+
+.breadcrumb-product-detail {
+    width: 100%;
+    height: 400px;
+    position: relative;
+    margin-top: 200px;
+}
+
+.title-product {
+    color: #000;
+    font-family: "MavenPro Medium";
+    text-transform: uppercase;
+    font-size: 25px;
+    margin: 0px 0px 8px;
+}
+
+.price-box {
+    margin: 0px 0 20px;
+    border-bottom: 1px solid #d7d7d7;
+    padding-bottom: 29px;
+    margin-top: 20px;
+}
+.price-box strong {
+    font-size: 30px;
+    color: #ffac4b;
+    line-height: 30px;
+    font-family: "MavenPro Bold";
+}
+.chonSize {
+    display: flex;
+    margin-top: 20px;
+}
+.chonSize p {
+    width: 35px;
+    height: 32px;
+    border: 1px solid #ebebeb;
+    text-align: center;
+    margin-right: 20px;
+    margin-top: 30px;
+}
+
+.tanggiam {
+    margin-top: 30px;
+    display: flex;
+}
+.tanggiam p {
+    width: 30px;
+    height: 26px;
+    text-align: center;
+    border: 1px solid #d9d9d9;
+}
+
+.tanggiam1 {
+    display: flex;
+}
+.tanggiam1 p {
+    width: 30px;
+    height: 26px;
+    text-align: center;
+    border: 1px solid #d9d9d9;
+}
+
+.themvaogiohang strong {
+    font-size: 25px;
+}
+
+.themvaogiohang strong:hover {
+    color: whitesmoke;
+}
+.phone-contact-1 {
+    margin-top: 20px;
+}
+.phone-contact-title p {
+    font-family: "MavenPro Bold";
+    font-size: 15px;
+    text-transform: uppercase;
+    color: #ffac4b;
+}
+.phone-contact-number {
+    display: flex;
+}
+.phone-icon {
+    width: 35px;
+    height: 35px;
+    padding-top: 5px;
+    background: #ffac4b;
+    text-align: center;
+    border-radius: 50px;
+}
+.number-phone-contact strong {
+    margin-left: 24px;
+    font-size: 24px;
+}
+.phone-contact-number p {
+    padding-top: 7px;
+}
+
+.giaohangsieutoc {
+    margin-top: 20px;
+    border-radius: 20px;
+    padding: 8px;
+    border: 2px solid #ffac4b;
+    word-wrap: break-word;
+    font-family: "MavenPro Bold";
+}
+.giaohangtietkiem {
+    border-radius: 20px;
+    margin-top: 20px;
+    padding: 8px;
+    border: 2px solid #ffac4b;
+    font-family: "MavenPro Bold";
+    word-wrap: break-word;
+}
+
+.product-info-item {
+    width: 100%;
+    margin-top: 40px;
+}
+.thongtinimage {
+    width: 100%;
+}
+.thongtinSize {
+    width: 100%;
+}
+
+.sanphamtuongtu {
+    width: 100%;
+    margin-top: 40px;
+    text-align: center;
+}
+.sanphamtuongtu strong {
+    font-size: 30px;
+}
+
+.sanphamdaxem {
+    width: 100%;
+    height: 500px;
+    margin-top: 40px;
+    text-align: center;
+}
+.sanphamdaxem strong {
+    font-size: 30px;
+}
+
+/* TIN TỨC */
+.tintuc-title {
+    font-family: "Maven Pro", sans-serif;
+    text-align: center;
+    margin-top: 100px;
+}
+.tintuc-title strong {
+    font-size: 30px;
+}
+
+.swiper-wrapper {
+    height: 529px;
+    transform: translate3d(0px, 0px, 0px);
+    display: flex;
+}
+
+.item_blog_base {
+    width: 361.333px;
+    margin-right: 43px;
+}
+.item_img {
+    display: block;
+    height: 333px;
+    overflow: hidden;
+}
+
+.clearfix a {
+    display: block;
+    margin: 25px 0 15px 0;
+    color: #000;
+    line-height: 1.3;
+    font-size: 16px;
+    font-family: "MavenPro Bold";
+}
+.clearfix b {
+    display: block;
+    margin: 25px 0 15px 0;
+    color: #000;
+    line-height: 1.3;
+    font-size: 16px;
+    font-family: "MavenPro Bold";
+}
+
+/* footer */
+.footer {
+    margin-top: 80px;
+    padding: 65px 0 0;
+    background: #191919 !important;
+}
+.footer_1 {
+    width: 100%;
+}
+
+.col-lg-4 .title {
+    max-width: 50.333333%;
+}
+
+.title {
+    margin-left: 140px;
+    text-align: right;
+    width: 500px;
+}
+.title h4 {
+    font-family: "MavenPro Bold";
+    line-height: normal;
+    letter-spacing: 0.5px;
+    font-size: 15px;
+    margin: 0px 0 25px 0;
+    color: #fff;
+    text-transform: uppercase;
+}
+.title .list_menu {
+    line-height: 30px;
+    padding-left: 0px;
+    margin: 0;
+}
+.title .list_menu .li_menu {
+    padding: 8px 0;
+    color: #fff;
+    font-family: "MavenPro";
+    font-size: 15px;
+    line-height: normal;
+    display: block;
+}
+
+.footer_2 {
+    width: 100%;
+}
+
+.logo-footer {
+    text-align: center;
+    margin-top: 30px;
+}
+.sum_footer {
+    color: #fff;
+    margin: 15px 0 30px;
+    font-size: 15px;
+    text-align: center;
+    margin-top: 65px;
+}
+
+.social-footer .social a {
+    display: inline-block;
+    background-color: #f1f1f1;
+    width: 36px;
+    font-size: 15px;
+    margin-right: 10px;
+    height: 34px;
+    line-height: 34px;
+    border-radius: 0;
+    text-align: center;
+    position: relative;
+}
+.social {
+    text-align: center;
+}
+.social a i {
+    height: 18px;
+    width: 18px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+.fb-page {
+    width: 100%;
+    text-align: center;
+}
+
+.footer_3 {
+    width: 100%;
+}
+
+.col-lg-4 .chinhsach {
+    max-width: 50.333333%;
+}
+
+.chinhsach {
+    margin-left: 30px;
+    text-align: left;
+    width: 500px;
+}
+.chinhsach h4 {
+    font-family: "MavenPro Bold";
+    line-height: normal;
+    letter-spacing: 0.5px;
+    font-size: 15px;
+    margin: 0px 0 25px 0;
+    color: #fff;
+    text-transform: uppercase;
+}
+.chinhsach .list_menu {
+    line-height: 30px;
+    padding-left: 0px;
+    margin: 0;
+}
+.chinhsach .list_menu .li_menu {
+    padding: 8px 0;
+    color: #fff;
+    font-family: "MavenPro";
+    font-size: 15px;
+    line-height: normal;
+    display: block;
+}
+
+.footer_all {
+    width: 100%;
+    display: flex;
+}
+
+.copyright {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 0px;
+    padding: 14px 0;
+    background: #464646;
+    margin-top: 60px;
+}
+
+.mobile {
+    color: #fff;
+}
+
+/* TẤT CẢ SẢN PHẨM */
+.tatcasanpham-title {
+    font-family: "Maven Pro", sans-serif;
+    text-align: center;
+    margin-top: 70px;
+}
+.tatcasanpham-title strong {
+    font-size: 30px;
+}
+
+/* thanh toán */
+.tienhanhthanhtoan {
+    width: 100%;
+    text-align: right;
+}
+.totalAmount {
+    width: 100%;
+    text-align: right;
+    margin-bottom: 40px;
+    padding-right: 50px;
+}
+.footer-giohang {
+    width: 100%;
+    padding-top: 40px;
+    margin-top: 100px;
+    background-color: #191919;
+    z-index: 1000 !important;
+}
+
+/* productSame */
+.productSame {
+    width: 100%;
+}
+.product-same-all {
+    width: 270px;
+    height: 330px;
+    float: left;
+}
+
+.product-same-img {
+    width: 100%;
+    height: 260px;
+    background-color: indianred;
+}
+.product-same-name {
+    width: 100%;
+    height: 40px;
+}
+.product-same-price {
+    width: 100%;
+    height: 30px;
+}
+
+/* card style start */
+
+.img-card {
+    border-radius: 4px;
+    color: #666;
+    height: 380px !important;
+    width: 270px !important;
+    overflow: hidden;
+    transition: 0.3s;
+}
+
+.img {
+    width: 100% !important;
+    height: 270px !important;
+}
+
+.img-card:hover {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.card-body {
+    padding: 15px;
+}
+.card-body strong {
+    color: black;
+    font-size: 16px;
+}
+
+/* card style end */
+
+/* carousel slider style start */
+
+.slick-slide > div {
+    margin: 0 10px;
+}
+
+.slick-list {
+    margin: 0 -10px;
+}
+
+.slick-slide *:focus {
+    outline: none;
+}
+/* carousel slider style end */
+.slick-product-same {
+    justify-content: center;
+    text-align: center;
+}
+
+/* tất cả sản phẩm */
+.aside-filter .aside-hidden-mobile .base-sort-product {
+    margin: 15px 0 25px;
+}
+.base-sort-product {
+    display: flex;
+    text-align: center;
+    vertical-align: center;
+}
+.sortby {
+    margin-top: 25px;
+}
+.aside-title {
+    display: inline-block;
+    margin-right: 15px;
+    font-size: 18px;
+    font-family: "MavenPro Medium";
+    margin-right: 40px;
+    margin-left: 200px;
+}
+
+.filter-group a {
+    font-size: 18px;
+    margin-right: 60px;
+}
+
+.sortby1 {
+    margin-top: 25px;
+    height: 50px;
+    width: 100%;
+    background-color: #ebebeb;
+}
+.boloc-all {
+    padding-top: 12px;
+}
+
+.renderProductAll {
+    margin-top: 60px;
+}
+
+
+/* thanh toán */
+.logo-thanhtoan {
+    text-align: center;
+    display: block;
+    width: 100%;
+    height: 150px;
+}
+
+
+.breadcrumb-product-detail-1 {
+    width: 100%;
+    position: relative;
+    margin-top: 149px;
+    display: flex;
+}
+
+.title-oder {
+    width: 200px;
+}
+
+.img-oder {
+    margin-top:  24px;
+    width: 60%;
+    display: flex;
+    border-top: 1px solid rgba(175,175,175,.34);
+}
+
+.img-product-order {
+    width: 20%;
+    height: 70px;
+    display: flex;
+    padding-top: 10px;
+}
+.tensanpham-size {
+    margin-left: 40px;
+    margin-top: 10px;
+}
+
+.money-thanhtoan {
+    margin-left: 100px;
+    padding-top: 50px;
+}
+
+.subtotalmoney {
+    margin-top: 20px;
+    width: 60%;
+    border-top: 1px solid rgba(175,175,175,.34);
+}
+
+.sotientamtinh {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.sotientamtinh p {
+    font-size: 17px;
+}
+
+.codegiamgia {
+    display: flex;
+    width: 60%;
+    border-top: 1px solid rgba(175,175,175,.34);
+    padding-top: 40px;
+}
+
+.phivanchuyen {
+    display: flex;
+    justify-content: space-between;
+}
+.phivanchuyen p {
+    font-size: 17px;
+}
+
+.totalmoney {
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px solid rgba(175,175,175,.34);
+}
+
+.totalmoney p {
+    font-size: 17px;
+    margin-top: 20px;
+}
+
+.dathangvenha {
+    text-align: right;
+    width: 60%;
+}
+
+.ant-select:not(.ant-select-customize-input) .ant-select-selector{
+    height: 50px !important;
+    border-radius: 5px !important;
+}
+
+.title-info-order {
+    margin-bottom: 20px;
+}
+
+.title-method-express {
+    margin-bottom: 24px;
+}
+
+.title-method-tratien-2 {
+    margin-bottom: 40px;
+}
+
+.title-method-tratien-3 {
+    width: 90%;
+    height: 200px;
+    border: 1px solid #d9d9d9;
+    border-radius: 5px;
+}
+.chon-1 {
+    width: 100%;
+    height: 66.6px;
+    border-bottom: 1px solid #d9d9d9;
+    padding-top: 20px;
+    padding-left: 16px;
+}
+
+/* GIới thiệu */
+.page-gioithieu-title {
+    font-family: "Maven Pro", sans-serif;
+    margin-top: 70px;
+    width: 100%;
+}
+.page-gioithieu-title strong {
+    font-size: 30px;
+}
+
+.content-page-gioithieu {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.content-page-gioithieu h3 span {
+    color: #e74c3c;
+}
+
+.content-page-gioithieu h4  {
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.content-page-gioithieu p {
+    padding-top: 40px;
+}
+
+.thongtin-hethong-cuahang {
+    margin-top: 60px;
+}
+
+.thongtin-hethong-cuahang a {
+    font-size: 16px;
+    color: #000;
+}
+
+/* Liên hệ */
+.right-contact {
+    margin-top: 40px;
+}
+.right-contact p {
+    margin-top: 20px;
+}
+.street-lienhe {
+    margin-top: 10px;
+}
+
+.email-lienhe {
+    margin-top: 20px;
+}
+
+.thoigianhoat-lienhe {
+    margin-top: 20px;
+    font-family: "MavenPro Medium";
+}
+
+.bando-cuahang {
+    margin-top: 40px;
+}
+
+.right-img-lienhe {
+    margin-top: 40px;
+}
+
+/* cửa hàng */
+.page-cuahang-title {
+    font-family: "Maven Pro", sans-serif;
+    margin-top: 70px;
+}
+.page-cuahang-title strong {
+    font-size: 30px;
+}
+.hochiminh-city {
+    margin-top: 20px;
+}
+.hochiminh-city h3 span {
+    font-size: 18px;
+    color: #ffac4b;
+}
+
+/* searchbox */
+.search-box {
+    margin-top: 40px;
+}
+
+.ant-dropdown-menu-item > a:hover, .ant-dropdown-menu-submenu-title > a:hover {
+    background-color: white !important;
+}
+
+
+/* comment */
+.noicommentcuakhach {
+    margin-left: 150px;
+}
+
+.step-hoa-don {
+    margin-bottom: 70px;
+}
+
+
+/* scroll-to-top */

@@ -1,0 +1,278 @@
+@import url("https://fonts.googleapis.com/css?family=Sen&display=swap");
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Sen";
+}
+
+.background-header {
+  background-color: #000000c4;
+  width: 100%;
+  height: 150px;
+  position: absolute;
+  z-index: 3;
+}
+
+.navbar-header {
+  font-family: "Maven Pro";
+  z-index: 3;
+}
+
+.active1 a {
+  color: white;
+}
+.active1 a:hover {
+  color: #ffac4b;
+}
+.active1 a::before {
+  color: #ffac4b;
+}
+
+.navbar-brand {
+  width: 100%;
+}
+
+.carousel-home {
+  position: absolute;
+  top: 0%;
+  width: 100%;
+  height: 100%;
+  z-index: 2;
+}
+
+.gio-hang {
+  margin-right: 30px;
+}
+
+.gio-hang a {
+  border-radius: 40px;
+  font-size: 25px;
+}
+.navbar-light .navbar-toggler{
+  background-color: white;
+}
+
+@media screen and (min-width: 1880px) {
+  .navbar-brand {
+    width: 70%;
+    margin-left: 50px;
+  }
+  .navbar-collapse {
+    background-color: rgba(255, 255, 255, 0) !important;
+  }
+  .card-hot-deal-car {
+    width: 95% !important;
+  }
+  .site-card-wrapper{
+    opacity: 10 !important;
+  }
+  .card-best-seller{
+    margin-left: 0px !important;
+  }
+  .banner-all {
+    display: flex !important;
+  }
+  .banner-bo-suu-tap {
+    height: 524px !important;
+  }
+  .link-video {
+    height: 524px !important;
+  }
+  .item_img {
+    height: 333px !important;
+  }
+  .footer_1 .title {
+    text-align: right !important;
+  }
+  .footer_3 .chinhsach {
+    text-align: left !important;
+  }
+  .banner-bo-suu-tap .heading a h1 {
+    color: #ffac4b;
+    font-size: 77.26px !important;
+    font-family: "MavenPro Medium" ;
+    padding-right: 70px !important;
+    line-height: 80px !important;
+    padding-top: 0px !important;
+  }
+  .link-video a img {
+    padding-top: 220px !important;
+    padding-left: 0px !important;
+  }
+  .navbar-brand{
+    width: 75% !important;
+  }
+  .col-lg-6 {
+    text-align:left !important;
+  }
+  .card-item-1 {
+    width: 100% !important;
+    height: 800px !important;
+  }
+  .product-detail-left {
+    text-align: center !important;
+  }
+  .card-hot-deal-title {
+    padding-top: 70px !important;
+    width: 50% !important;
+    height: 400px !important;
+    padding-left: 24px !important;
+  }
+  .card-hot-deal-img-1 {
+    width: 100% !important;
+    height: 300px !important;
+    padding-top: 50px !important;
+    margin-top: 40px !important;
+    opacity: 1 !important;
+  }
+}
+
+
+@media screen and (min-width: 320px) {
+  .navbar-collapse {
+    background-color: #000000c4 ;
+    text-align: center;
+  }
+  .card-hot-deal-title {
+    padding-top: 30px;
+    width: 100%;
+  }
+  .card-hot-deal-img-1 {
+    opacity: 0;
+  }
+
+  .col-lg-6 {
+    text-align: center;
+  }
+  .card-best-seller{
+    margin-left: 110px;
+  }
+  .banner-all {
+    display: inherit;
+  }
+  .banner-bo-suu-tap {
+    height: 200px;
+  }
+  .link-video {
+    height: 200px;
+  }
+  .item_img {
+    height: 100px ;
+  }
+   .footer_1 .title {
+    display: contents;
+    text-align: left;
+  }
+  .footer_all .footer_1{
+    width: 157px;
+  }
+  .title .list_menu img {
+    justify-content: left
+  }
+  .footer_3 .chinhsach {
+    display: contents;
+    text-align: right;
+  }
+}
+
+
+@media screen and (min-width: 768px) {
+  .card-best-seller{
+    margin-left: 60px;
+  }
+  .banner-bo-suu-tap {
+    height: 300px;
+  }
+  .link-video {
+    height: 300px;
+  }
+  .banner-bo-suu-tap .heading a h1 {
+    font-size: 25px;
+    padding-right: 200px;
+    padding-top: 90px;
+  }
+  .link-video a img {
+    padding-top: 100px;
+    padding-left: 320px;
+  }
+  .item_img {
+    height: 180px;
+  }
+  .navbar-brand {
+    width: 60%;
+  }
+  .site-card-wrapper{
+    opacity: 10 ;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .navbar-collapse {
+    background-color: #00000000 ;
+  }
+  .navbar-brand {
+    width: 100%;
+  }
+  .card-best-seller{
+    margin-left: 140px;
+  }
+  .banner-bo-suu-tap .heading a h1 {
+    padding-right: 100px;
+  }
+  .link-video a img {
+    padding-left: 80px;
+  }
+  .item_img {
+    height: 280px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .card-best-seller{
+    margin-left: 200px;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .navbar-collapse {
+    background-color: #00000000 ;
+  }
+}
+
+/* hoá đơn */
+
+  .hoaDon-header h1, p{
+  margin:0px;
+  }
+  .main-section{
+  background-color: #FFF;
+  border: 1px solid rgb(255, 172, 75);
+  }
+  .hoaDon-header{
+  background-color: rgb(255, 172, 75);
+  padding:30px 15px 20px 15px ;
+  color:#fff;
+  }
+  .hoaDon-content{
+  padding:20px 15px 20px 15px;
+  }
+  th{
+  background-color: rgb(255, 172, 75);
+  color: black;
+  text-align: right;
+  }
+  .table td:nth-child(1),
+  .table th:nth-child(1){
+  text-align:left;
+  }
+  .lastSection{
+  padding: 20px 15px 30px 15px;
+  }
+  .col-md-offset-2 {
+    margin-left: 290px;
+  }
+  

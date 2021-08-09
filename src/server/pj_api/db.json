@@ -1,0 +1,3732 @@
+{
+  "city": [
+    {
+      "id": 10993,
+      "code": "01",
+      "parentcode": "0003",
+      "name": "Thành phố Hà Nội",
+      "status": 1,
+      "region": 1
+    },
+    {
+      "id": 9737,
+      "code": "79",
+      "parentcode": "0003",
+      "name": "Thành phố Hồ Chí Minh",
+      "status": 1,
+      "region": 3
+    },
+    {
+      "id": 8113,
+      "code": "92",
+      "parentcode": "0003",
+      "name": "Thành phố Cần Thơ",
+      "status": 1,
+      "region": 2
+    },
+    {
+      "id": 3429,
+      "code": "31",
+      "parentcode": "0003",
+      "name": "Thành phố Hải Phòng",
+      "status": 1,
+      "region": 1
+    },
+    {
+      "id": 7224,
+      "code": "48",
+      "parentcode": "0003",
+      "name": "Thành phố Đà Nẵng",
+      "status": 1,
+      "region": 2
+    },
+    {
+      "id": 1283,
+      "code": "89",
+      "parentcode": "0003",
+      "name": "Tỉnh An Giang",
+      "status": 1,
+      "region": 2
+    },
+    {
+      "id": 9646,
+      "code": "77",
+      "parentcode": "0003",
+      "name": "Tỉnh Bà Rịa-Vũng Tàu",
+      "status": 1,
+      "region": 2
+    },
+    {
+      "id": 9520,
+      "code": "74",
+      "parentcode": "0003",
+      "name": "Tỉnh Bình Dương",
+      "status": 1,
+      "region": 2
+    },
+    {
+      "id": 8487,
+      "code": "70",
+      "parentcode": "0003",
+      "name": "Tỉnh Bình Phước",
+      "status": 1,
+      "region": 2
+    },
+    {
+      "id": 8889,
+      "code": "60",
+      "parentcode": "0003",
+      "name": "Tỉnh Bình Thuận",
+      "status": 1,
+      "region": 2
+    },
+    {
+      "id": 5103,
+      "code": "52",
+      "parentcode": "0003",
+      "name": "Tỉnh Bình Định",
+      "status": 1,
+      "region": 2
+    },
+    {
+      "id": 1446,
+      "code": "95",
+      "parentcode": "0003",
+      "name": "Tỉnh Bạc Liêu",
+      "status": 1,
+      "region": 2
+    },
+    {
+      "id": 12555,
+      "code": "06",
+      "parentcode": "0003",
+      "name": "Tỉnh Bắc Cạn",
+      "status": 1,
+      "region": 1
+    },
+    {
+      "id": 1915,
+      "code": "24",
+      "parentcode": "0003",
+      "name": "Tỉnh Bắc Giang",
+      "status": 1,
+      "region": 1
+    },
+    {
+      "id": 4294,
+      "code": "27",
+      "parentcode": "0003",
+      "name": "Tỉnh Bắc Ninh",
+      "status": 1,
+      "region": 1
+    },
+    {
+      "id": 2153,
+      "code": "83",
+      "parentcode": "0003",
+      "name": "Tỉnh Bến Tre",
+      "status": 1,
+      "region": 2
+    },
+    {
+      "id": 12209,
+      "code": "04",
+      "parentcode": "0003",
+      "name": "Tỉnh Cao Bằng",
+      "status": 1,
+      "region": 1
+    },
+    {
+      "id": 1518,
+      "code": "96",
+      "parentcode": "0003",
+      "name": "Tỉnh Cà Mau",
+      "status": 1,
+      "region": 2
+    },
+    {
+      "id": 9139,
+      "code": "64",
+      "parentcode": "0003",
+      "name": "Tỉnh Gia Lai",
+      "status": 1,
+      "region": 2
+    },
+    {
+      "id": 10365,
+      "code": "17",
+      "parentcode": "0003",
+      "name": "Tỉnh Hoà Bình",
+      "status": 1,
+      "region": 1
+    },
+    {
+      "id": 1682,
+      "code": "02",
+      "parentcode": "0003",
+      "name": "Tỉnh Hà Giang",
+      "status": 1,
+      "region": 1
+    },
+    {
+      "id": 4774,
+      "code": "35",
+      "parentcode": "0003",
+      "name": "Tỉnh Hà Nam",
+      "status": 1,
+      "region": 1
+    },
+    {
+      "id": 5818,
+      "code": "42",
+      "parentcode": "0003",
+      "name": "Tỉnh Hà Tĩnh",
+      "status": 1,
+      "region": 1
+    },
+    {
+      "id": 3668,
+      "code": "33",
+      "parentcode": "0003",
+      "name": "Tỉnh Hưng Yên",
+      "status": 1,
+      "region": 1
+    },
+    {
+      "id": 4429,
+      "code": "30",
+      "parentcode": "0003",
+      "name": "Tỉnh Hải Dương",
+      "status": 1,
+      "region": 1
+    },
+    {
+      "id": 8208,
+      "code": "93",
+      "parentcode": "0003",
+      "name": "Tỉnh Hậu Giang",
+      "status": 1,
+      "region": 2
+    },
+    {
+      "id": 8666,
+      "code": "56",
+      "parentcode": "0003",
+      "name": "Tỉnh Khánh Hoà",
+      "status": 1,
+      "region": 2
+    },
+    {
+      "id": 7952,
+      "code": "91",
+      "parentcode": "0003",
+      "name": "Tỉnh Kiên Giang",
+      "status": 1,
+      "region": 2
+    },
+    {
+      "id": 9027,
+      "code": "62",
+      "parentcode": "0003",
+      "name": "Tỉnh Kon Tum",
+      "status": 1,
+      "region": 2
+    },
+    {
+      "id": 11728,
+      "code": "12",
+      "parentcode": "0003",
+      "name": "Tỉnh Lai Châu",
+      "status": 1,
+      "region": 1
+    },
+    {
+      "id": 10084,
+      "code": "80",
+      "parentcode": "0003",
+      "name": "Tỉnh Long An",
+      "status": 1,
+      "region": 2
+    },
+    {
+      "id": 12702,
+      "code": "10",
+      "parentcode": "0003",
+      "name": "Tỉnh Lào Cai",
+      "status": 1,
+      "region": 1
+    },
+    {
+      "id": 5712,
+      "code": "68",
+      "parentcode": "0003",
+      "name": "Tỉnh Lâm Đồng",
+      "status": 1,
+      "region": 2
+    },
+    {
+      "id": 10615,
+      "code": "20",
+      "parentcode": "0003",
+      "name": "Tỉnh Lạng Sơn",
+      "status": 1,
+      "region": 1
+    },
+    {
+      "id": 4897,
+      "code": "36",
+      "parentcode": "0003",
+      "name": "Tỉnh Nam Định",
+      "status": 1,
+      "region": 1
+    },
+    {
+      "id": 6601,
+      "code": "40",
+      "parentcode": "0003",
+      "name": "Tỉnh Nghệ An",
+      "status": 1,
+      "region": 1
+    },
+    {
+      "id": 2493,
+      "code": "37",
+      "parentcode": "0003",
+      "name": "Tỉnh Ninh Bình",
+      "status": 1,
+      "region": 1
+    },
+    {
+      "id": 8816,
+      "code": "58",
+      "parentcode": "0003",
+      "name": "Tỉnh Ninh Thuận",
+      "status": 1,
+      "region": 2
+    },
+    {
+      "id": 3856,
+      "code": "25",
+      "parentcode": "0003",
+      "name": "Tỉnh Phú Thọ",
+      "status": 1,
+      "region": 1
+    },
+    {
+      "id": 5274,
+      "code": "54",
+      "parentcode": "0003",
+      "name": "Tỉnh Phú Yên",
+      "status": 1,
+      "region": 2
+    },
+    {
+      "id": 6094,
+      "code": "44",
+      "parentcode": "0003",
+      "name": "Tỉnh Quảng Bình",
+      "status": 1,
+      "region": 1
+    },
+    {
+      "id": 7289,
+      "code": "49",
+      "parentcode": "0003",
+      "name": "Tỉnh Quảng Nam",
+      "status": 1,
+      "region": 2
+    },
+    {
+      "id": 7550,
+      "code": "51",
+      "parentcode": "0003",
+      "name": "Tỉnh Quảng Ngãi",
+      "status": 1,
+      "region": 2
+    },
+    {
+      "id": 10853,
+      "code": "22",
+      "parentcode": "0003",
+      "name": "Tỉnh Quảng Ninh",
+      "status": 1,
+      "region": 1
+    },
+    {
+      "id": 7066,
+      "code": "45",
+      "parentcode": "0003",
+      "name": "Tỉnh Quảng Trị",
+      "status": 1,
+      "region": 1
+    },
+    {
+      "id": 8293,
+      "code": "94",
+      "parentcode": "0003",
+      "name": "Tỉnh Sóc Trăng",
+      "status": 1,
+      "region": 2
+    },
+    {
+      "id": 11845,
+      "code": "14",
+      "parentcode": "0003",
+      "name": "Tỉnh Sơn La",
+      "status": 1,
+      "region": 1
+    },
+    {
+      "id": 2647,
+      "code": "38",
+      "parentcode": "0003",
+      "name": "Tỉnh Thanh Hoá",
+      "status": 1,
+      "region": 1
+    },
+    {
+      "id": 4643,
+      "code": "34",
+      "parentcode": "0003",
+      "name": "Tỉnh Thái Bình",
+      "status": 1,
+      "region": 1
+    },
+    {
+      "id": 3311,
+      "code": "19",
+      "parentcode": "0003",
+      "name": "Tỉnh Thái Nguyên",
+      "status": 1,
+      "region": 1
+    },
+    {
+      "id": 5368,
+      "code": "46",
+      "parentcode": "0003",
+      "name": "Tỉnh Thừa Thiên-Huế",
+      "status": 1,
+      "region": 1
+    },
+    {
+      "id": 7673,
+      "code": "82",
+      "parentcode": "0003",
+      "name": "Tỉnh Tiền Giang",
+      "status": 1,
+      "region": 2
+    },
+    {
+      "id": 2327,
+      "code": "84",
+      "parentcode": "0003",
+      "name": "Tỉnh Trà Vinh",
+      "status": 1,
+      "region": 2
+    },
+    {
+      "id": 12513,
+      "code": "08",
+      "parentcode": "0003",
+      "name": "Tỉnh Tuyên Quang",
+      "status": 1,
+      "region": 1
+    },
+    {
+      "id": 9415,
+      "code": "72",
+      "parentcode": "0003",
+      "name": "Tỉnh Tây Ninh",
+      "status": 1,
+      "region": 2
+    },
+    {
+      "id": 1008,
+      "code": "86",
+      "parentcode": "0003",
+      "name": "Tỉnh Vĩnh Long",
+      "status": 1,
+      "region": 2
+    },
+    {
+      "id": 4147,
+      "code": "26",
+      "parentcode": "0003",
+      "name": "Tỉnh Vĩnh Phúc",
+      "status": 1,
+      "region": 1
+    },
+    {
+      "id": 12062,
+      "code": "15",
+      "parentcode": "0003",
+      "name": "Tỉnh Yên Bái",
+      "status": 1,
+      "region": 1
+    },
+    {
+      "id": 12808,
+      "code": "11",
+      "parentcode": "0003",
+      "name": "Tỉnh Điện Biên",
+      "status": 1,
+      "region": 1
+    },
+    {
+      "id": 9377,
+      "code": "66",
+      "parentcode": "0003",
+      "name": "Tỉnh Đắc Lắc",
+      "status": 1,
+      "region": 2
+    },
+    {
+      "id": 5642,
+      "code": "67",
+      "parentcode": "0003",
+      "name": "Tỉnh Đắc Nông",
+      "status": 1,
+      "region": 2
+    },
+    {
+      "id": 7800,
+      "code": "75",
+      "parentcode": "0003",
+      "name": "Tỉnh Đồng Nai",
+      "status": 1,
+      "region": 2
+    },
+    {
+      "id": 1126,
+      "code": "87",
+      "parentcode": "0003",
+      "name": "Tỉnh Đồng Tháp",
+      "status": 1,
+      "region": 2
+    }
+  ],
+  "district": [
+    {
+      "id": 7269,
+      "code": "495",
+      "parentcode": "48",
+      "name": "Quận Cẩm Lệ",
+      "status": 1,
+      "region": null
+    },
+    {
+      "id": 7242,
+      "code": "492",
+      "parentcode": "48",
+      "name": "Quận Hải Châu",
+      "status": 1,
+      "region": null
+    },
+    {
+      "id": 7225,
+      "code": "490",
+      "parentcode": "48",
+      "name": "Quận Liên Chiểu",
+      "status": 1,
+      "region": null
+    },
+    {
+      "id": 7264,
+      "code": "494",
+      "parentcode": "48",
+      "name": "Quận Ngũ Hành Sơn",
+      "status": 1,
+      "region": null
+    },
+    {
+      "id": 7256,
+      "code": "493",
+      "parentcode": "48",
+      "name": "Quận Sơn Trà",
+      "status": 1,
+      "region": null
+    },
+    {
+      "id": 7231,
+      "code": "491",
+      "parentcode": "48",
+      "name": "Quận Thanh Khê",
+      "status": 1,
+      "region": null
+    },
+    {
+      "id": 7288,
+      "code": "498",
+      "parentcode": "48",
+      "name": "Huyện Hoàng Sa",
+      "status": 1,
+      "region": null
+    },
+    {
+      "id": 7276,
+      "code": "497",
+      "parentcode": "48",
+      "name": "Huyện Hòa Vang",
+      "status": 1,
+      "region": null
+    }
+  ],
+  "quanlytaikhoan": [
+    {
+      "id": 1,
+      "tenNguoiDung": "Đặng Ngọc Minh Châu",
+      "user": "admin@gmail.com",
+      "gioiTinh": "Nam",
+      "soDienThoai": "0905315214",
+      "matKhau": "202cb962ac59075b964b07152d234b70",
+      "xacNhanMatKhau": "202cb962ac59075b964b07152d234b70",
+      "quyen": "QuanTri",
+      "ngayTaoBanGhi": "24/05/2021 20:39:07 ",
+      "matKhauGoc": "123",
+      "img": "https://img.icons8.com/bubbles/2x/user-male.png"
+    },
+    {
+      "tenNguoiDung": "Trương Hoàng Huy",
+      "user": "hoanghuy@gmail.com",
+      "gioiTinh": "Nam",
+      "soDienThoai": "793329299",
+      "matKhau": "202cb962ac59075b964b07152d234b70",
+      "xacNhanMatKhau": "202cb962ac59075b964b07152d234b70",
+      "matKhauGoc": "123",
+      "ngayTaoBanGhi": "31/07/2021 08:47:01 ",
+      "quyen": "KhachHang",
+      "id": 2,
+      "img": "https://img.icons8.com/bubbles/2x/user-male.png",
+      "key": 2
+    },
+    {
+      "tenNguoiDung": "Thu Thảo",
+      "user": "thao@gmail.com",
+      "gioiTinh": "Nữ",
+      "soDienThoai": "905744462",
+      "matKhau": "202cb962ac59075b964b07152d234b70",
+      "xacNhanMatKhau": "202cb962ac59075b964b07152d234b70",
+      "matKhauGoc": "123",
+      "ngayTaoBanGhi": "31/07/2021 07:42:04 ",
+      "quyen": "KhachHang",
+      "img": "https://img.icons8.com/bubbles/2x/user-male.png",
+      "id": 3
+    },
+    {
+      "tenNguoiDung": "Hoàng Huy",
+      "user": "hoanghuy1@gmail.com",
+      "gioiTinh": "Nam",
+      "soDienThoai": "123456789",
+      "matKhau": "202cb962ac59075b964b07152d234b70",
+      "xacNhanMatKhau": "202cb962ac59075b964b07152d234b70",
+      "matKhauGoc": "123",
+      "ngayTaoBanGhi": "31/07/2021 10:10:02 ",
+      "quyen": "KhachHang",
+      "img": "https://img.icons8.com/bubbles/2x/user-male.png",
+      "id": 4
+    }
+  ],
+  "quanlyuserchounlock": [],
+  "quanlythongbao": [],
+  "quanlycmnd": [
+    {
+      "cmnd": "201727226",
+      "idUser": 1,
+      "ngayTaoBanGhi": "24/05/2021 20:39:07 ",
+      "id": 1
+    },
+    {
+      "cmnd": "201777113",
+      "idUser": 2,
+      "ngayTaoBanGhi": "25/06/2021 20:00:29 ",
+      "id": 2
+    },
+    {
+      "idUser": 3,
+      "ngayTaoBanGhi": "26/07/2021 18:39:26 ",
+      "id": 4
+    },
+    {
+      "idUser": 4,
+      "ngayTaoBanGhi": "26/07/2021 18:39:58 ",
+      "id": 5
+    },
+    {
+      "idUser": 4,
+      "ngayTaoBanGhi": "26/07/2021 18:41:42 ",
+      "id": 6
+    },
+    {
+      "idUser": 5,
+      "ngayTaoBanGhi": "30/07/2021 20:31:05 ",
+      "id": 7
+    },
+    {
+      "idUser": 3,
+      "ngayTaoBanGhi": "30/07/2021 20:47:30 ",
+      "id": 8
+    },
+    {
+      "idUser": 3,
+      "ngayTaoBanGhi": "30/07/2021 20:53:23 ",
+      "id": 9
+    }
+  ],
+  "sanphamduoc": [
+    {
+      "id": 1,
+      "kieu": "NEW ARRIVAL"
+    },
+    {
+      "id": 2,
+      "kieu": "BEST SELLER"
+    },
+    {
+      "id": 3,
+      "kieu": "ĐANG KHUYẾN MÃI"
+    },
+    {
+      "id": 4,
+      "kieu": "HOT DEAL"
+    },
+    {
+      "id": 5,
+      "kieu": "CU NHAT"
+    },
+    {
+      "id": 6,
+      "kieu": "MOI NHAT"
+    }
+  ],
+  "loaisanpham": [
+    {
+      "id": 1,
+      "loai": "T-SHIRT"
+    },
+    {
+      "id": 2,
+      "loai": "Pants"
+    },
+    {
+      "id": 3,
+      "loai": "Hoodie"
+    },
+    {
+      "id": 4,
+      "loai": "Jacket"
+    },
+    {
+      "id": 5,
+      "loai": "Sơ Mi"
+    },
+    {
+      "id": 6,
+      "loai": "Phụ kiện"
+    },
+    {
+      "id": 7,
+      "loai": "Nón"
+    },
+    {
+      "id": 8,
+      "loai": "Sản phẩm khuyến mãi"
+    }
+  ],
+  "size": [
+    {
+      "id": 1,
+      "size": "S"
+    },
+    {
+      "id": 2,
+      "size": "M"
+    },
+    {
+      "id": 3,
+      "size": "L"
+    },
+    {
+      "id": 4,
+      "size": "XL"
+    },
+    {
+      "id": 5,
+      "size": "XXL"
+    }
+  ],
+  "sanpham": [
+    {
+      "id": 1,
+      "maSanPham": "NEWARRIVAL2-T-SHIRT-2",
+      "tenSanPham": "YOUNG SKULL TEE",
+      "loaisanphamId": 1,
+      "mauSac": "Đen",
+      "sanphamduocId": 1,
+      "size": [
+        {
+          "sizeId": 1,
+          "soluong": 0
+        },
+        {
+          "sizeId": 2,
+          "soluong": 10
+        },
+        {
+          "sizeId": 3,
+          "soluong": 0
+        },
+        {
+          "sizeId": 4,
+          "soluong": 10
+        },
+        {
+          "sizeId": 5,
+          "soluong": 10
+        }
+      ],
+      "price": 300000,
+      "img": [
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/193195028-4027643750677109-6063018326773296611-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/193251159-4027643524010465-1341950353081561262-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/1.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "FACE TEE OVERSIZED",
+      "maSanPham": "NEWARRIVAL1-T-SHIRT-1",
+      "mauSac": "Trắng",
+      "sanphamduocId": 1,
+      "loaisanphamId": 1,
+      "size": [
+        {
+          "sizeId": 2,
+          "soluong": 10
+        },
+        {
+          "sizeId": 3,
+          "soluong": 10
+        },
+        {
+          "sizeId": 4,
+          "soluong": 10
+        }
+      ],
+      "price": 300000,
+      "id": 2,
+      "img": [
+        "https://bizweb.dktcdn.net/100/331/067/products/202153838-4072352499539567-8994935730794668763-n.jpg",
+        "https://bizweb.dktcdn.net/100/331/067/products/ae957d29ae3c5a62032d.jpg?v=1624211434423",
+        "https://bizweb.dktcdn.net/100/331/067/products/202176868-1984550635033942-8958530080723965995-n-1.jpg?v=1624211489827"
+      ]
+    },
+    {
+      "tenSanPham": "CHEERS TO THE FAILING",
+      "maSanPham": "NEWARRIVAL3-T-SHIRT-3",
+      "mauSac": "Trắng",
+      "sanphamduocId": 1,
+      "loaisanphamId": 1,
+      "size": [
+        {
+          "sizeId": 1,
+          "soluong": 10
+        },
+        {
+          "sizeId": 2,
+          "soluong": 10
+        },
+        {
+          "sizeId": 3,
+          "soluong": 10
+        },
+        {
+          "sizeId": 4,
+          "soluong": 10
+        },
+        {
+          "sizeId": 5,
+          "soluong": 10
+        }
+      ],
+      "price": 260000,
+      "id": 3,
+      "img": [
+        "https://bizweb.dktcdn.net/100/331/067/products/192799037-4027643437343807-8315007792770920602-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/194609193-166126092257476-7925545660928105649-n.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "BASIC STRIPED TEE",
+      "maSanPham": "NEWARRIVAL4-T-SHIRT-4",
+      "mauSac": "Trắng đen",
+      "sanphamduocId": 1,
+      "loaisanphamId": 1,
+      "size": [
+        {
+          "sizeId": 1,
+          "soluong": 10
+        },
+        {
+          "sizeId": 2,
+          "soluong": 10
+        },
+        {
+          "sizeId": 3,
+          "soluong": 10
+        },
+        {
+          "sizeId": 4,
+          "soluong": 10
+        }
+      ],
+      "price": 270000,
+      "id": 4,
+      "img": [
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/196262684-4027643820677102-5666876723781663329-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/191308646-4016118455162972-8049609278080631002-n.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "YOUNGGREEN T-SHIRT SS/21",
+      "maSanPham": "YGS5-YTTSS-T",
+      "mauSac": "Trắng ",
+      "sanphamduocId": 5,
+      "loaisanphamId": 1,
+      "size": [
+        {
+          "sizeId": 1,
+          "soluong": 10
+        },
+        {
+          "sizeId": 2,
+          "soluong": 10
+        },
+        {
+          "sizeId": 3,
+          "soluong": 10
+        },
+        {
+          "sizeId": 4,
+          "soluong": 10
+        }
+      ],
+      "price": 270000,
+      "id": 5,
+      "img": [
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/191117235-4016118188496332-8684556782671153933-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/192208352-4016118215162996-88166855313781927-n.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "YOUNGGREEN T-SHIRT SS/21",
+      "maSanPham": "YGS5-YTTSS-Đ",
+      "mauSac": "Đen",
+      "sanphamduocId": 5,
+      "loaisanphamId": 1,
+      "size": [
+        {
+          "sizeId": 1,
+          "soluong": 10
+        },
+        {
+          "sizeId": 2,
+          "soluong": 10
+        },
+        {
+          "sizeId": 3,
+          "soluong": 10
+        },
+        {
+          "sizeId": 4,
+          "soluong": 10
+        }
+      ],
+      "price": 270000,
+      "id": 6,
+      "img": [
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/192039013-4016118338496317-2234295430712059352-n.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "VINTAGE TEE",
+      "maSanPham": "YGS6-VT-Đ",
+      "mauSac": "Đen",
+      "sanphamduocId": 2,
+      "loaisanphamId": 1,
+      "size": [
+        {
+          "sizeId": 1,
+          "soluong": 10
+        },
+        {
+          "sizeId": 2,
+          "soluong": 10
+        },
+        {
+          "sizeId": 3,
+          "soluong": 10
+        },
+        {
+          "sizeId": 4,
+          "soluong": 10
+        },
+        {
+          "sizeId": 5,
+          "soluong": 10
+        }
+      ],
+      "price": 200000,
+      "id": 7,
+      "img": [
+        "https://bizweb.dktcdn.net/100/331/067/products/169144564-3859436574164495-5099825103931218177-n.jpg",
+        "https://bizweb.dktcdn.net/100/331/067/products/200734156-4083229775118506-2448838350539459381-n.jpg?v=1624553866380",
+        "https://bizweb.dktcdn.net/100/331/067/products/199180267-4083235631784587-1146900020508873323-n.jpg?v=1624553864967"
+      ]
+    },
+    {
+      "tenSanPham": "POLO HEART",
+      "maSanPham": "YGS7-PH-Đ",
+      "mauSac": "Đen",
+      "sanphamduocId": 2,
+      "loaisanphamId": 1,
+      "size": [
+        {
+          "sizeId": 1,
+          "soluong": 0
+        },
+        {
+          "sizeId": 2,
+          "soluong": 10
+        },
+        {
+          "sizeId": 3,
+          "soluong": 10
+        },
+        {
+          "sizeId": 4,
+          "soluong": 10
+        },
+        {
+          "sizeId": 5,
+          "soluong": 10
+        }
+      ],
+      "price": 270000,
+      "id": 8,
+      "img": [
+        "https://bizweb.dktcdn.net/100/331/067/products/186519032-3982660461842105-1372734324511361649-n.jpg",
+        "https://bizweb.dktcdn.net/100/331/067/products/199882128-1980792362076436-6056404316692489498-n-1.jpg?v=1624213896547",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/187554052-3982660531842098-5623010044479087554-n.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "11:11 T-SHIRT",
+      "maSanPham": "YGS8-11:11-Đ",
+      "mauSac": "Đen",
+      "sanphamduocId": 2,
+      "loaisanphamId": 1,
+      "size": [
+        {
+          "sizeId": 1,
+          "soluong": 0
+        },
+        {
+          "sizeId": 2,
+          "soluong": 0
+        },
+        {
+          "sizeId": 3,
+          "soluong": 0
+        },
+        {
+          "sizeId": 4,
+          "soluong": 0
+        }
+      ],
+      "price": 270000,
+      "id": 9,
+      "img": [
+        "https://bizweb.dktcdn.net/100/331/067/products/185494591-3963946590380159-3150365781569122475-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/185686424-3963946693713482-7390456302197375458-n.jpg",
+        "https://bizweb.dktcdn.net/100/331/067/products/189579988-1968957389926600-8407946071272426308-n.jpg?v=1624214079990",
+        "https://bizweb.dktcdn.net/100/331/067/products/191690246-1968957256593280-3403923981670354849-n.jpg?v=1624214080920",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/187478397-1968957303259942-5047231802952947050-n.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "YGSTW TEE",
+      "maSanPham": "YGS9-YT-Đ",
+      "mauSac": "Đen",
+      "sanphamduocId": 2,
+      "loaisanphamId": 1,
+      "size": [
+        {
+          "sizeId": 1,
+          "soluong": 20
+        },
+        {
+          "sizeId": 2,
+          "soluong": 20
+        },
+        {
+          "sizeId": 3,
+          "soluong": 20
+        },
+        {
+          "sizeId": 4,
+          "soluong": 20
+        }
+      ],
+      "price": 290000,
+      "id": 10,
+      "img": [
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/186073862-3963946417046843-6315530992287569118-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/185280196-3963950103713141-7687638482496002216-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/189163463-1966302683525404-8402733813514449200-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/188985136-1966302630192076-4344286351428434287-n-1.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "ROBOT TEE",
+      "maSanPham": "YGS10-RT-Đ",
+      "mauSac": "Đen",
+      "sanphamduocId": 2,
+      "loaisanphamId": 1,
+      "size": [
+        {
+          "sizeId": 1,
+          "soluong": 15
+        },
+        {
+          "sizeId": 2,
+          "soluong": 15
+        },
+        {
+          "sizeId": 3,
+          "soluong": 15
+        },
+        {
+          "sizeId": 4,
+          "soluong": 15
+        },
+        {
+          "sizeId": 5,
+          "soluong": 15
+        }
+      ],
+      "price": 300000,
+      "id": 11,
+      "img": [
+        "https://bizweb.dktcdn.net/100/331/067/products/181898751-3943301429111342-2670157589394121455-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/182700224-3943301559111329-7879689094901833482-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/182963095-3943301179111367-417952796776636963-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/181468369-3943301245778027-8312349906619863505-n.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "INVADER WASH TEE",
+      "maSanPham": "YGS11-IWT-Đ",
+      "mauSac": "Đen",
+      "sanphamduocId": 2,
+      "loaisanphamId": 1,
+      "size": [
+        {
+          "sizeId": 1,
+          "soluong": 15
+        },
+        {
+          "sizeId": 2,
+          "soluong": 15
+        },
+        {
+          "sizeId": 3,
+          "soluong": 15
+        },
+        {
+          "sizeId": 4,
+          "soluong": 15
+        }
+      ],
+      "price": 380000,
+      "id": 12,
+      "img": [
+        "https://bizweb.dktcdn.net/100/331/067/products/180214102-3943330505775101-2014329877114860811-n.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "BLANK T-SHIRT",
+      "maSanPham": "YGS12-S-Đ",
+      "mauSac": "Đen",
+      "sanphamduocId": 2,
+      "loaisanphamId": 1,
+      "size": [
+        {
+          "sizeId": 1,
+          "soluong": 18
+        },
+        {
+          "sizeId": 2,
+          "soluong": 18
+        },
+        {
+          "sizeId": 3,
+          "soluong": 18
+        },
+        {
+          "sizeId": 4,
+          "soluong": 18
+        }
+      ],
+      "price": 200000,
+      "id": 13,
+      "img": [
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/194531794-4064533040321513-7878222941388135259-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/120393664-744995856053035-2967040711151159711-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/197095238-4064533510321466-5172279885572543912-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/195457046-4064533233654827-9162053017536412929-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/198106598-4064533140321503-5400062085169015838-n.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "ESSENTIALS STRIPES PANTS",
+      "maSanPham": "YGS13-ESP-Đ",
+      "mauSac": "Đen Trắng",
+      "sanphamduocId": 2,
+      "loaisanphamId": 2,
+      "size": [
+        {
+          "sizeId": 1,
+          "soluong": 25
+        },
+        {
+          "sizeId": 2,
+          "soluong": 25
+        },
+        {
+          "sizeId": 3,
+          "soluong": 25
+        },
+        {
+          "sizeId": 4,
+          "soluong": 25
+        },
+        {
+          "sizeId": 5,
+          "soluong": 25
+        }
+      ],
+      "price": 320000,
+      "id": 14,
+      "img": [
+        "https://bizweb.dktcdn.net/100/331/067/products/177998217-3919208154854003-7440469753643571064-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/o1cn01a4hokd1jfaipfrlvx-2209499510999.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/o1cn01kmpvyz1jfaijab6gp-2209499510999.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "CULTURE TEE",
+      "maSanPham": "YGS14-CT-W",
+      "mauSac": "Trắng",
+      "soluong": "10",
+      "sanphamduocId": 3,
+      "loaisanphamId": 1,
+      "size": [
+        {
+          "sizeId": 1,
+          "soluong": 30
+        },
+        {
+          "sizeId": 2,
+          "soluong": 30
+        },
+        {
+          "sizeId": 3,
+          "soluong": 30
+        },
+        {
+          "sizeId": 4,
+          "soluong": 30
+        }
+      ],
+      "price": 270000,
+      "id": 15,
+      "img": [
+        "https://bizweb.dktcdn.net/100/331/067/products/191053356-4016118298496321-8986712677629249088-n.jpg"
+      ],
+      "priceSale": 152000
+    },
+    {
+      "tenSanPham": "CAMO LOGO TEE",
+      "maSanPham": "YGS15-CLT-Đ",
+      "mauSac": "Đen",
+      "soluong": "15",
+      "sanphamduocId": 3,
+      "loaisanphamId": 1,
+      "size": [
+        {
+          "sizeId": 1,
+          "soluong": 15
+        },
+        {
+          "sizeId": 2,
+          "soluong": 15
+        },
+        {
+          "sizeId": 3,
+          "soluong": 15
+        },
+        {
+          "sizeId": 4,
+          "soluong": 15
+        }
+      ],
+      "price": 260000,
+      "id": 16,
+      "img": [
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/186224798-3974172176024267-2654989904650547045-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/186515374-3982660811842070-2797439978875206480-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/189560606-1965395216949484-633477462261548222-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/192039030-1965395100282829-7132430872723938480-n.jpg"
+      ],
+      "priceSale": 149000
+    },
+    {
+      "tenSanPham": "I SAY NO TEE",
+      "maSanPham": "YGS16-ISNT-Đ",
+      "mauSac": "Đen",
+      "sanphamduocId": 3,
+      "loaisanphamId": 1,
+      "size": [
+        {
+          "sizeId": 1,
+          "soluong": 15
+        },
+        {
+          "sizeId": 2,
+          "soluong": 15
+        },
+        {
+          "sizeId": 3,
+          "soluong": 15
+        },
+        {
+          "sizeId": 4,
+          "soluong": 15
+        }
+      ],
+      "price": 250000,
+      "id": 17,
+      "img": [
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/z2472321906258-eb75976a84147d7df2ec71b2f4eb7db1.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/z2472321914773-fb6ef76d8d33dfe5514e71ea54fdf317.jpg"
+      ],
+      "priceSale": 139000
+    },
+    {
+      "tenSanPham": "YOUNG GREEN EST2014",
+      "maSanPham": "YGS17-YGE-W",
+      "mauSac": "Trắng",
+      "sanphamduocId": 3,
+      "loaisanphamId": 1,
+      "size": [
+        {
+          "sizeId": 1,
+          "soluong": 20
+        },
+        {
+          "sizeId": 2,
+          "soluong": 20
+        },
+        {
+          "sizeId": 3,
+          "soluong": 20
+        },
+        {
+          "sizeId": 4,
+          "soluong": 20
+        }
+      ],
+      "price": 260000,
+      "id": 18,
+      "img": [
+        "https://bizweb.dktcdn.net/100/331/067/products/180832591-3943301105778041-5902260961721882590-n.jpg"
+      ],
+      "priceSale": 160000
+    },
+    {
+      "tenSanPham": "SLAMDUNK TEE",
+      "maSanPham": "YGS18-ST-W",
+      "mauSac": "Trắng",
+      "sanphamduocId": 5,
+      "loaisanphamId": 1,
+      "size": [
+        {
+          "sizeId": 1,
+          "soluong": 10
+        },
+        {
+          "sizeId": 2,
+          "soluong": 10
+        },
+        {
+          "sizeId": 3,
+          "soluong": 10
+        },
+        {
+          "sizeId": 4,
+          "soluong": 10
+        }
+      ],
+      "price": 280000,
+      "id": 19,
+      "img": [
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/182428339-3943301079111377-3585284884556543724-n.jpg",
+        "https://bizweb.dktcdn.net/100/331/067/products/180890931-3943301439111341-6550499449320328356-n.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "Young Green Sphynx Tee",
+      "maSanPham": "YGS19-YGST-Đ",
+      "mauSac": "Đen",
+      "sanphamduocId": 5,
+      "loaisanphamId": 1,
+      "size": [
+        {
+          "sizeId": 1,
+          "soluong": 10
+        },
+        {
+          "sizeId": 2,
+          "soluong": 10
+        },
+        {
+          "sizeId": 3,
+          "soluong": 10
+        },
+        {
+          "sizeId": 4,
+          "soluong": 10
+        }
+      ],
+      "price": 350000,
+      "id": 20,
+      "img": [
+        "https://bizweb.dktcdn.net/100/331/067/products/182433605-3943301545777997-6623690222998067032-n.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "New Multi Camo Sphynx",
+      "maSanPham": "NEWARRIVAL5-T-SHIRT-5",
+      "mauSac": "Trắng",
+      "sanphamduocId": 1,
+      "loaisanphamId": 1,
+      "size": [
+        {
+          "sizeId": 1,
+          "soluong": 15
+        },
+        {
+          "sizeId": 2,
+          "soluong": 15
+        },
+        {
+          "sizeId": 3,
+          "soluong": 15
+        },
+        {
+          "sizeId": 4,
+          "soluong": 15
+        }
+      ],
+      "price": 320000,
+      "id": 21,
+      "img": [
+        "https://bizweb.dktcdn.net/100/331/067/products/182712719-3943301262444692-3063478413875765508-n.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "SWEATER EVERY MOMENT",
+      "maSanPham": "YG21-NEWARRIVAL1-S1HOODIE-Đ",
+      "mauSac": "Đen",
+      "sanphamduocId": 1,
+      "loaisanphamId": 3,
+      "size": [
+        {
+          "sizeId": 1,
+          "soluong": 10
+        },
+        {
+          "sizeId": 2,
+          "soluong": 10
+        },
+        {
+          "sizeId": 3,
+          "soluong": 10
+        },
+        {
+          "sizeId": 4,
+          "soluong": 10
+        },
+        {
+          "sizeId": 5,
+          "soluong": 10
+        }
+      ],
+      "price": 300000,
+      "id": 22,
+      "img": [
+        "https://bizweb.dktcdn.net/100/331/067/products/8a9f71b868aa64ff7575e7b1aab12435.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/41502745-1141095122712835-4728649123337601024-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/41721356-1141094932712854-2094232384311394304-n.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "GIVEMEMORE HOOD",
+      "maSanPham": "YGS22-NEWARRIVAL2-HOODIE-Đ",
+      "mauSac": "Đen",
+      "sanphamduocId": 1,
+      "loaisanphamId": 3,
+      "size": [
+        {
+          "sizeId": 1,
+          "soluong": 10
+        },
+        {
+          "sizeId": 2,
+          "soluong": 10
+        },
+        {
+          "sizeId": 3,
+          "soluong": 10
+        },
+        {
+          "sizeId": 4,
+          "soluong": 10
+        }
+      ],
+      "price": 450000,
+      "id": 23,
+      "img": [
+        "https://bizweb.dktcdn.net/100/331/067/products/186107386-3963946507046834-6292986453287326303-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/202519579-4083234378451379-4923165421293783611-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/145318915-1158774794567384-7643520542937779398-n.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "ON DA WAY HOOD",
+      "maSanPham": "YGS23-NEWARRIVAL3-HOODIE-G",
+      "mauSac": "Xám",
+      "sanphamduocId": 1,
+      "loaisanphamId": 3,
+      "size": [
+        {
+          "sizeId": 1,
+          "soluong": 10
+        },
+        {
+          "sizeId": 2,
+          "soluong": 10
+        },
+        {
+          "sizeId": 3,
+          "soluong": 10
+        },
+        {
+          "sizeId": 4,
+          "soluong": 10
+        }
+      ],
+      "price": 400000,
+      "id": 24,
+      "img": [
+        "https://bizweb.dktcdn.net/100/331/067/products/z2300846901260-1477811084f18bacc8ea3e12e992e5a4.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/z2300846956748-129de9da87fcaf9cfa6b4bd0f7a4c706.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/140610642-1868144543341219-3440757385602739132-o.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "SWEATHOOD YG",
+      "maSanPham": "YGS24-NEWARRIVAL4-HOODIE-W",
+      "mauSac": "Trắng",
+      "sanphamduocId": 5,
+      "loaisanphamId": 3,
+      "size": [
+        {
+          "sizeId": 2,
+          "soluong": 10
+        },
+        {
+          "sizeId": 3,
+          "soluong": 10
+        }
+      ],
+      "price": 300000,
+      "id": 25,
+      "img": [
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/197438081-4064530316988452-736144252376402847-n.jpg"
+      ],
+      "priceSale": 250000
+    },
+    {
+      "tenSanPham": "SWEATHOOD YG",
+      "maSanPham": "YGS25-SY-HOODIE-R",
+      "mauSac": "Đỏ",
+      "sanphamduocId": 5,
+      "loaisanphamId": 3,
+      "size": [
+        {
+          "sizeId": 2,
+          "soluong": 10
+        },
+        {
+          "sizeId": 3,
+          "soluong": 10
+        }
+      ],
+      "price": 300000,
+      "id": 26,
+      "img": [
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/142986982-408504933582090-8382592935263379212-n.jpg"
+      ],
+      "priceSale": 250000
+    },
+    {
+      "tenSanPham": "SWEATHOOD YG",
+      "maSanPham": "YGS26-SY-HOODIE-B",
+      "mauSac": "Đen",
+      "sanphamduocId": 5,
+      "loaisanphamId": 3,
+      "size": [
+        {
+          "sizeId": 2,
+          "soluong": 10
+        },
+        {
+          "sizeId": 3,
+          "soluong": 10
+        },
+        {
+          "sizeId": 4,
+          "soluong": 10
+        }
+      ],
+      "price": 300000,
+      "id": 27,
+      "img": [
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/140808460-1064993110677382-5350652845571936689-n.jpg"
+      ],
+      "priceSale": 250000
+    },
+    {
+      "tenSanPham": "BASIC SWEATSHIRT OG",
+      "maSanPham": "YGS27-NEWARRIVAL5-HOODIE-G",
+      "mauSac": "Xám",
+      "sanphamduocId": 1,
+      "loaisanphamId": 3,
+      "size": [
+        {
+          "sizeId": 1,
+          "soluong": 10
+        },
+        {
+          "sizeId": 2,
+          "soluong": 10
+        },
+        {
+          "sizeId": 3,
+          "soluong": 10
+        },
+        {
+          "sizeId": 4,
+          "soluong": 10
+        }
+      ],
+      "price": 350000,
+      "id": 28,
+      "img": [
+        "https://bizweb.dktcdn.net/100/331/067/products/131578948-155269852600481-7307626829981571335-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/132042721-1844037259085281-560403705269016878-o.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/133348497-1844042915751382-4823060305532936750-o.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "TIE-DYE SWEATSHIRT BASIC",
+      "maSanPham": "YGS28-TDSB-HOODIE-G",
+      "mauSac": "Xám tro",
+      "sanphamduocId": 1,
+      "loaisanphamId": 3,
+      "size": [
+        {
+          "sizeId": 1,
+          "soluong": 10
+        },
+        {
+          "sizeId": 2,
+          "soluong": 10
+        },
+        {
+          "sizeId": 3,
+          "soluong": 10
+        },
+        {
+          "sizeId": 4,
+          "soluong": 10
+        }
+      ],
+      "price": 400000,
+      "id": 29,
+      "img": [
+        "https://bizweb.dktcdn.net/100/331/067/products/131908481-405743453816010-2645543987164377549-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/134997938-1852718821550458-1134084991673118114-o.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/134939877-1852718538217153-4860487404588752773-o.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "FLEECE SWEATSHIRT WITH POCKET",
+      "maSanPham": "YGS29-FSWP-HOODIE-W-B",
+      "mauSac": "Trắng ",
+      "soluong": "10",
+      "sanphamduocId": 5,
+      "loaisanphamId": 3,
+      "size": [
+        {
+          "sizeId": 2,
+          "soluong": 10
+        },
+        {
+          "sizeId": 3,
+          "soluong": 10
+        },
+        {
+          "sizeId": 4,
+          "soluong": 10
+        }
+      ],
+      "price": 450000,
+      "id": 30,
+      "img": [
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/131670116-3796147280443952-1482763219394921636-n.jpg",
+        "https://bizweb.dktcdn.net/100/331/067/products/130836905-1832737056881968-6015191526243573562-o.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/131964065-1843898455765828-2882138511869313025-o.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "SUPERVILLAIN HOOD",
+      "maSanPham": "YGS30-SH-HOODIE-T",
+      "mauSac": "Tan",
+      "sanphamduocId": 5,
+      "loaisanphamId": 3,
+      "size": [
+        {
+          "sizeId": 1,
+          "soluong": 10
+        },
+        {
+          "sizeId": 2,
+          "soluong": 10
+        },
+        {
+          "sizeId": 3,
+          "soluong": 10
+        }
+      ],
+      "price": 400000,
+      "id": 31,
+      "img": [
+        "https://bizweb.dktcdn.net/100/331/067/products/130299563-181114013521186-9106710402685309323-n.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "VGS White Reflective",
+      "maSanPham": "YGS31-VWR-HOODIE-W",
+      "mauSac": "Trắng",
+      "sanphamduocId": 5,
+      "loaisanphamId": 3,
+      "size": [
+        {
+          "sizeId": 1,
+          "soluong": 10
+        },
+        {
+          "sizeId": 2,
+          "soluong": 10
+        },
+        {
+          "sizeId": 3,
+          "soluong": 10
+        }
+      ],
+      "price": 450000,
+      "id": 32,
+      "img": [
+        "https://bizweb.dktcdn.net/100/331/067/products/81670678-2454485991460390-736862172897869824-o.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/81726477-2454486364793686-6077712739151642624-o.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/81715729-2653196131455218-2295625316376248320-o.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "VGS Lunar New Year",
+      "maSanPham": "YGS32-VLNY-HOODIE-R",
+      "mauSac": "Đỏ",
+      "sanphamduocId": 5,
+      "loaisanphamId": 3,
+      "size": [
+        {
+          "sizeId": 1,
+          "soluong": 10
+        },
+        {
+          "sizeId": 2,
+          "soluong": 10
+        },
+        {
+          "sizeId": 3,
+          "soluong": 10
+        }
+      ],
+      "price": 400000,
+      "id": 33,
+      "img": [
+        "https://bizweb.dktcdn.net/100/331/067/products/81510721-2454486001460389-7386018859083366400-o.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/81972401-2653196761455155-421399771354234880-o.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/80957386-2653196814788483-4481704317887184896-o.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "VGS Hoodie",
+      "maSanPham": "YGS33-VH-HOODIE-B",
+      "mauSac": "Đen",
+      "sanphamduocId": 5,
+      "loaisanphamId": 3,
+      "size": [
+        {
+          "sizeId": 1,
+          "soluong": 10
+        },
+        {
+          "sizeId": 2,
+          "soluong": 10
+        },
+        {
+          "sizeId": 3,
+          "soluong": 10
+        }
+      ],
+      "price": 400000,
+      "id": 34,
+      "img": [
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/48405962-2169723786603280-4476955853584334848-o.jpg",
+        "https://bizweb.dktcdn.net/100/331/067/products/47580239-2169723799936612-2903267810421506048-o.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/ipgys8mg-jpeg.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "Hood Nagri",
+      "maSanPham": "YGS34-HN-HOODIE-R",
+      "mauSac": "Đỏ",
+      "sanphamduocId": 5,
+      "loaisanphamId": 3,
+      "size": [
+        {
+          "sizeId": 1,
+          "soluong": 17
+        },
+        {
+          "sizeId": 2,
+          "soluong": 17
+        },
+        {
+          "sizeId": 3,
+          "soluong": 17
+        },
+        {
+          "sizeId": 4,
+          "soluong": 17
+        }
+      ],
+      "price": 400000,
+      "id": 35,
+      "img": [
+        "https://bizweb.dktcdn.net/100/331/067/products/197964118-4064533386988145-1559253524186691716-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/137682661-1862561507232856-1216363857525094709-o.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/137702584-1862561493899524-6329638173062727143-o.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "BASIC WASH TEE",
+      "maSanPham": "YGS35-BWT-X",
+      "mauSac": "Xám tro",
+      "sanphamduocId": 6,
+      "loaisanphamId": 1,
+      "size": [
+        {
+          "sizeId": 1,
+          "soluong": 12
+        },
+        {
+          "sizeId": 2,
+          "soluong": 15
+        },
+        {
+          "sizeId": 3,
+          "soluong": 18
+        },
+        {
+          "sizeId": 4,
+          "soluong": 20
+        }
+      ],
+      "price": 290000,
+      "priceSale": 0,
+      "id": 36,
+      "img": [
+        "https://bizweb.dktcdn.net/100/331/067/products/176963084-1942041962618143-7028470737111663003-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/42b3c8d94342b61cef53-1.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/7f5a7935f2ae07f05ebf-1.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "LOGO TEE SS/21",
+      "maSanPham": "YGS36-LTS-Đ",
+      "mauSac": "Đen",
+      "sanphamduocId": 6,
+      "loaisanphamId": 1,
+      "size": [
+        {
+          "sizeId": 1,
+          "soluong": 14
+        },
+        {
+          "sizeId": 2,
+          "soluong": 18
+        },
+        {
+          "sizeId": 3,
+          "soluong": 20
+        },
+        {
+          "sizeId": 4,
+          "soluong": 12
+        }
+      ],
+      "price": 350000,
+      "priceSale": 0,
+      "id": 37,
+      "img": [
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/166773429-3834384180003068-7827398097345740565-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/164907174-3834384236669729-4335539155868691165-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/196184055-4083238635117620-7816310978889217827-n.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "ALIEN WARRIOR TEE",
+      "maSanPham": "YGS37-AWT-Đ",
+      "mauSac": "Đen",
+      "sanphamduocId": 6,
+      "loaisanphamId": 1,
+      "size": [
+        {
+          "sizeId": 1,
+          "soluong": 14
+        },
+        {
+          "sizeId": 2,
+          "soluong": 18
+        },
+        {
+          "sizeId": 3,
+          "soluong": 20
+        },
+        {
+          "sizeId": 4,
+          "soluong": 12
+        }
+      ],
+      "price": 330000,
+      "priceSale": 0,
+      "id": 38,
+      "img": [
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/165202019-3834384546669698-4844356907044188803-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/167067349-3834384460003040-7039392679618308116-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/167341660-3834384673336352-647062575296210728-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/166340261-3834384916669661-8963948367781140973-n.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "PUFF LOGO TEE",
+      "maSanPham": "YGS38-PLT-R",
+      "mauSac": "Đỏ",
+      "sanphamduocId": 6,
+      "loaisanphamId": 1,
+      "size": [
+        {
+          "sizeId": 1,
+          "soluong": 14
+        },
+        {
+          "sizeId": 2,
+          "soluong": 18
+        },
+        {
+          "sizeId": 3,
+          "soluong": 20
+        },
+        {
+          "sizeId": 4,
+          "soluong": 12
+        }
+      ],
+      "price": 330000,
+      "priceSale": 0,
+      "id": 39,
+      "img": [
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/183506010-3943301755777976-3825164277210577635-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/182065041-3943301789111306-4436095504198285388-n.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "PUFF LOGO TEE",
+      "maSanPham": "YGS39-PLT-W",
+      "mauSac": "Trắng",
+      "sanphamduocId": 6,
+      "loaisanphamId": 1,
+      "size": [
+        {
+          "sizeId": 1,
+          "soluong": 16
+        },
+        {
+          "sizeId": 2,
+          "soluong": 20
+        },
+        {
+          "sizeId": 3,
+          "soluong": 22
+        },
+        {
+          "sizeId": 4,
+          "soluong": 24
+        }
+      ],
+      "price": 330000,
+      "priceSale": 0,
+      "id": 40,
+      "img": [
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/169145498-3859436680831151-4984196232262964394-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/170299566-3859436784164474-5071414673716116453-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/167514118-3859436877497798-8206455862489500172-n.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "DRAGON TEE",
+      "maSanPham": "YGS40-PLT-W",
+      "mauSac": "Trắng",
+      "sanphamduocId": 5,
+      "loaisanphamId": 1,
+      "size": [
+        {
+          "sizeId": 1,
+          "soluong": 16
+        },
+        {
+          "sizeId": 2,
+          "soluong": 20
+        },
+        {
+          "sizeId": 3,
+          "soluong": 22
+        },
+        {
+          "sizeId": 4,
+          "soluong": 24
+        }
+      ],
+      "price": 350000,
+      "priceSale": 139000,
+      "id": 41,
+      "img": [
+        "https://bizweb.dktcdn.net/100/331/067/products/z2284199487404-da83dfdabe3d0c7179829e21a7b8ce78.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/z2284199487526-fcbcf549a1081d2448159e1aba0bd4c1-1.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/146492618-1881797101975963-780539256496534933-o.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "CALL ME BLIND",
+      "maSanPham": "YGS41-CMB-Đ",
+      "mauSac": "Đen",
+      "sanphamduocId": 6,
+      "loaisanphamId": 1,
+      "size": [
+        {
+          "sizeId": 1,
+          "soluong": 16
+        },
+        {
+          "sizeId": 2,
+          "soluong": 20
+        },
+        {
+          "sizeId": 3,
+          "soluong": 22
+        },
+        {
+          "sizeId": 4,
+          "soluong": 24
+        }
+      ],
+      "price": 350000,
+      "priceSale": 0,
+      "id": 42,
+      "img": [
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/168404274-3859436690831150-6931978402755199641-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/169531953-3859436567497829-2460657306700043499-n.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "CALL ME BLIND",
+      "maSanPham": "YGS42-CMB-W",
+      "mauSac": "Trắng",
+      "sanphamduocId": 6,
+      "loaisanphamId": 1,
+      "size": [
+        {
+          "sizeId": 1,
+          "soluong": 16
+        },
+        {
+          "sizeId": 2,
+          "soluong": 20
+        },
+        {
+          "sizeId": 3,
+          "soluong": 22
+        },
+        {
+          "sizeId": 4,
+          "soluong": 24
+        }
+      ],
+      "price": 350000,
+      "priceSale": 0,
+      "id": 43,
+      "img": [
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/168554789-3859436920831127-6173489908238122467-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/170022483-3859437004164452-5994145208551684427-n.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "Bearbrick Tee",
+      "maSanPham": "YGS43-BT-Đ",
+      "mauSac": "Đen",
+      "sanphamduocId": 6,
+      "loaisanphamId": 1,
+      "size": [
+        {
+          "sizeId": 1,
+          "soluong": 10
+        },
+        {
+          "sizeId": 2,
+          "soluong": 12
+        },
+        {
+          "sizeId": 3,
+          "soluong": 14
+        },
+        {
+          "sizeId": 4,
+          "soluong": 18
+        }
+      ],
+      "price": 260000,
+      "priceSale": 0,
+      "id": 44,
+      "img": [
+        "https://bizweb.dktcdn.net/100/331/067/products/186510267-3982660455175439-4583502959559780012-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/187697936-3982660818508736-6159289280982256483-n.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "Bearbrick Tee",
+      "maSanPham": "YGS44-BT-W",
+      "mauSac": "Trắng",
+      "sanphamduocId": 6,
+      "loaisanphamId": 1,
+      "size": [
+        {
+          "sizeId": 1,
+          "soluong": 10
+        },
+        {
+          "sizeId": 2,
+          "soluong": 12
+        },
+        {
+          "sizeId": 3,
+          "soluong": 14
+        },
+        {
+          "sizeId": 4,
+          "soluong": 18
+        }
+      ],
+      "price": 260000,
+      "priceSale": 0,
+      "id": 45,
+      "img": [
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/187154953-3982660375175447-7560062948270107853-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/187137834-3982660765175408-7929882036029095650-n.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "Trust Tee",
+      "maSanPham": "YGS45-TT-Đ",
+      "mauSac": "Đen",
+      "sanphamduocId": 6,
+      "loaisanphamId": 1,
+      "size": [
+        {
+          "sizeId": 1,
+          "soluong": 10
+        },
+        {
+          "sizeId": 2,
+          "soluong": 12
+        },
+        {
+          "sizeId": 3,
+          "soluong": 14
+        },
+        {
+          "sizeId": 4,
+          "soluong": 18
+        },
+        {
+          "sizeId": 5,
+          "soluong": 10
+        }
+      ],
+      "price": 250000,
+      "priceSale": 0,
+      "id": 46,
+      "img": [
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/169465075-3859436494164503-48393626106704519-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/167380436-3859436414164511-5376590608827748242-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/52344319-246655829576434-8084809681660280832-n-0d39d858-0274-4d7b-b98b-cc4abe3aaf6b.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "MULTI LOGO TEE",
+      "maSanPham": "YGS46-MLT-Đ",
+      "mauSac": "Đen",
+      "sanphamduocId": 6,
+      "loaisanphamId": 1,
+      "size": [
+        {
+          "sizeId": 1,
+          "soluong": 10
+        },
+        {
+          "sizeId": 2,
+          "soluong": 12
+        },
+        {
+          "sizeId": 3,
+          "soluong": 14
+        },
+        {
+          "sizeId": 4,
+          "soluong": 18
+        },
+        {
+          "sizeId": 5,
+          "soluong": 10
+        }
+      ],
+      "price": 270000,
+      "priceSale": 0,
+      "id": 47,
+      "img": [
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/139855114-247605766918276-598607735355441504-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/z2284267986136-542b5cdfb28b635fce4930d7c04c730a.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/z2284267983805-acf81c67695c88ac4bd201a793bc3b19.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "YG STUDIO BASEBALL JACKET",
+      "maSanPham": "YGS47-MLT-JACKET",
+      "mauSac": "Đen kem",
+      "sanphamduocId": 6,
+      "loaisanphamId": 4,
+      "size": [
+        {
+          "sizeId": 1,
+          "soluong": 10
+        },
+        {
+          "soluong": 10,
+          "sizeId": 2
+        },
+        {
+          "sizeId": 3,
+          "soluong": 10
+        },
+        {
+          "sizeId": 4,
+          "soluong": 10
+        }
+      ],
+      "price": 550000,
+      "priceSale": 0,
+      "id": 48,
+      "img": [
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/196525899-4064533170321500-907508698164967330-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/131521606-4064533220321495-1622920211858465257-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/123422-77ec85d3-1e9b-4b50-98e0-b8ffb969d501.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "VGS LOGO BASEBALL JACKET",
+      "maSanPham": "YGS48-VLBJ-JACKET",
+      "mauSac": "Đen kem",
+      "sanphamduocId": 6,
+      "loaisanphamId": 4,
+      "size": [
+        {
+          "sizeId": 1,
+          "soluong": 10
+        },
+        {
+          "soluong": 10,
+          "sizeId": 2
+        },
+        {
+          "sizeId": 3,
+          "soluong": 10
+        },
+        {
+          "sizeId": 4,
+          "soluong": 10
+        }
+      ],
+      "price": 550000,
+      "priceSale": 0,
+      "id": 49,
+      "img": [
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/z2300839192987-3c6ca903fb47e94213beb5ee5c783757.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/z2300839184841-7dc4b923dedc629fd1a4dc5abf19eba6.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/142275843-2769095643332755-6751994012246820815-o.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "YGSW FLEECE JACKET",
+      "maSanPham": "YGS49-YFJ-JACKET",
+      "mauSac": "Kem",
+      "sanphamduocId": 6,
+      "loaisanphamId": 4,
+      "size": [
+        {
+          "soluong": 10,
+          "sizeId": 2
+        },
+        {
+          "sizeId": 3,
+          "soluong": 10
+        },
+        {
+          "sizeId": 4,
+          "soluong": 10
+        }
+      ],
+      "price": 450000,
+      "priceSale": 0,
+      "id": 50,
+      "img": [
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/132391052-803921393671975-2466541337328824760-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/132030241-3584792611605898-5394018181584962741-n.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "YOUNGGREEN BASIC JACKET",
+      "maSanPham": "YGS50-YBJ-JACKET",
+      "mauSac": "Đen",
+      "sanphamduocId": 6,
+      "loaisanphamId": 4,
+      "size": [
+        {
+          "sizeId": 1,
+          "soluong": 10
+        },
+        {
+          "soluong": 10,
+          "sizeId": 2
+        },
+        {
+          "sizeId": 3,
+          "soluong": 10
+        },
+        {
+          "sizeId": 4,
+          "soluong": 10
+        }
+      ],
+      "price": 400000,
+      "priceSale": 0,
+      "id": 51,
+      "img": [
+        "https://bizweb.dktcdn.net/100/331/067/products/167424146-3834384293336390-7681199868553506711-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/165101994-3834384376669715-374630565945030307-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/198813345-4083241781783972-3156583788786338022-n.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "ESSENTIAL REF JACKET",
+      "maSanPham": "YGS51-ERJ-JACKET",
+      "mauSac": "Đen",
+      "sanphamduocId": 6,
+      "loaisanphamId": 4,
+      "size": [
+        {
+          "sizeId": 1,
+          "soluong": 10
+        },
+        {
+          "soluong": 10,
+          "sizeId": 2
+        },
+        {
+          "sizeId": 3,
+          "soluong": 10
+        },
+        {
+          "sizeId": 4,
+          "soluong": 10
+        }
+      ],
+      "price": 450000,
+      "priceSale": 0,
+      "id": 52,
+      "img": [
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/7289ec46ca903ace6381.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/4a948add480ab854e11b.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/123691737-414156922932373-2061267119590616985-n.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "Essential Jacket",
+      "maSanPham": "YGS52-EJ-JACKET",
+      "mauSac": "Đen",
+      "sanphamduocId": 6,
+      "loaisanphamId": 4,
+      "size": [
+        {
+          "sizeId": 1,
+          "soluong": 10
+        },
+        {
+          "soluong": 10,
+          "sizeId": 2
+        },
+        {
+          "sizeId": 3,
+          "soluong": 10
+        },
+        {
+          "sizeId": 4,
+          "soluong": 10
+        },
+        {
+          "sizeId": 5,
+          "soluong": 10
+        }
+      ],
+      "price": 350000,
+      "priceSale": 0,
+      "id": 53,
+      "img": [
+        "https://bizweb.dktcdn.net/100/331/067/products/78573664-979323722401069-2717228840979005440-n.png",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/78546040-2592886364136911-7780778047812141056-n.png",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/81230690-1511413492347661-5291388533167095808-o.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "LOGO SS/21 JACKET",
+      "maSanPham": "YGS53-LSJ-JACKET",
+      "mauSac": "Đen",
+      "sanphamduocId": 6,
+      "loaisanphamId": 4,
+      "size": [
+        {
+          "sizeId": 1,
+          "soluong": 10
+        },
+        {
+          "soluong": 10,
+          "sizeId": 2
+        },
+        {
+          "sizeId": 3,
+          "soluong": 10
+        },
+        {
+          "sizeId": 4,
+          "soluong": 10
+        },
+        {
+          "sizeId": 5,
+          "soluong": 10
+        }
+      ],
+      "price": 400000,
+      "priceSale": 0,
+      "id": 54,
+      "img": [
+        "https://bizweb.dktcdn.net/100/331/067/products/165554202-3834384780003008-7710422561336856453-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/166946483-3834384383336381-3936968415946180476-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/200654761-4083231318451685-3338002963450823135-n.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "Ticar Log Jacket",
+      "maSanPham": "YGS54-TLJ-JACKET",
+      "mauSac": "Đen",
+      "sanphamduocId": 6,
+      "loaisanphamId": 4,
+      "size": [
+        {
+          "sizeId": 1,
+          "soluong": 10
+        },
+        {
+          "soluong": 10,
+          "sizeId": 2
+        },
+        {
+          "sizeId": 3,
+          "soluong": 10
+        },
+        {
+          "sizeId": 4,
+          "soluong": 10
+        },
+        {
+          "sizeId": 5,
+          "soluong": 10
+        }
+      ],
+      "price": 400000,
+      "priceSale": 0,
+      "id": 55,
+      "img": [
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/z2357326410009-bd071a25aac9ac5a6df551868f131794-1.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/z2357326414428-0780fce76b00e5e2cbd949bde5e9788a-1.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "Coach Basic",
+      "maSanPham": "YGS55-CB-JACKET",
+      "mauSac": "Đen",
+      "sanphamduocId": 6,
+      "loaisanphamId": 4,
+      "size": [
+        {
+          "sizeId": 1,
+          "soluong": 10
+        },
+        {
+          "soluong": 10,
+          "sizeId": 2
+        },
+        {
+          "sizeId": 3,
+          "soluong": 10
+        },
+        {
+          "sizeId": 4,
+          "soluong": 10
+        },
+        {
+          "sizeId": 5,
+          "soluong": 10
+        }
+      ],
+      "price": 250000,
+      "priceSale": 0,
+      "id": 56,
+      "img": [
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/34884890-1049919511830397-6487936241097506816-o.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/mjnodgsg-jpeg.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/1b542k-g-jpeg.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "BLANK SHORTS",
+      "maSanPham": "YGS56-CB-PANT",
+      "mauSac": "Xám",
+      "sanphamduocId": 6,
+      "loaisanphamId": 2,
+      "size": [
+        {
+          "soluong": 10,
+          "sizeId": 2
+        },
+        {
+          "sizeId": 3,
+          "soluong": 10
+        },
+        {
+          "sizeId": 4,
+          "soluong": 10
+        }
+      ],
+      "price": 270000,
+      "priceSale": 0,
+      "id": 57,
+      "img": [
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/200553021-4080601438714673-1513654346511683980-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/196988275-4080601685381315-5954344289009231210-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/197121657-4080601458714671-7416935353655853572-n.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "WIDE LEG JEANS",
+      "maSanPham": "YGS57-WLJ-PANT",
+      "mauSac": "Xanh Jean",
+      "sanphamduocId": 6,
+      "loaisanphamId": 2,
+      "size": [
+        {
+          "sizeId": 1,
+          "soluong": 10
+        },
+        {
+          "soluong": 10,
+          "sizeId": 2
+        },
+        {
+          "sizeId": 3,
+          "soluong": 10
+        },
+        {
+          "sizeId": 4,
+          "soluong": 10
+        }
+      ],
+      "price": 450000,
+      "priceSale": 0,
+      "id": 58,
+      "img": [
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/178488481-286161419733724-6347991104066729958-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/103498177-1655755557913453-8133604891001848566-o.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "YG NYLON SHORTS",
+      "maSanPham": "YGS58-YGS-PANT",
+      "mauSac": "Đen",
+      "sanphamduocId": 6,
+      "loaisanphamId": 2,
+      "size": [
+        {
+          "sizeId": 1,
+          "soluong": 10
+        },
+        {
+          "soluong": 10,
+          "sizeId": 2
+        },
+        {
+          "sizeId": 3,
+          "soluong": 10
+        },
+        {
+          "sizeId": 4,
+          "soluong": 10
+        }
+      ],
+      "price": 250000,
+      "priceSale": 0,
+      "id": 59,
+      "img": [
+        "https://bizweb.dktcdn.net/100/331/067/products/178856238-3916850071756478-4538773011491884602-n.jpg?v=1619603975697"
+      ]
+    },
+    {
+      "tenSanPham": "SHORT ZIPPER",
+      "maSanPham": "YGS59-SZ-PANT",
+      "mauSac": "Đen",
+      "sanphamduocId": 6,
+      "loaisanphamId": 2,
+      "size": [
+        {
+          "sizeId": 1,
+          "soluong": 10
+        },
+        {
+          "soluong": 10,
+          "sizeId": 2
+        },
+        {
+          "sizeId": 3,
+          "soluong": 10
+        },
+        {
+          "sizeId": 4,
+          "soluong": 10
+        },
+        {
+          "sizeId": 5,
+          "soluong": 10
+        }
+      ],
+      "price": 290000,
+      "priceSale": 0,
+      "id": 60,
+      "img": [
+        "https://bizweb.dktcdn.net/100/331/067/products/51bc15e242a9b0f7e9b8.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "RINGO TROUSER PANT",
+      "maSanPham": "YGS60-RTP-PANT",
+      "mauSac": "Đen",
+      "sanphamduocId": 6,
+      "loaisanphamId": 2,
+      "size": [
+        {
+          "sizeId": 1,
+          "soluong": 10
+        },
+        {
+          "soluong": 10,
+          "sizeId": 2
+        },
+        {
+          "sizeId": 3,
+          "soluong": 10
+        },
+        {
+          "sizeId": 4,
+          "soluong": 10
+        },
+        {
+          "sizeId": 5,
+          "soluong": 12
+        }
+      ],
+      "price": 320000,
+      "priceSale": 0,
+      "id": 61,
+      "img": [
+        "https://bizweb.dktcdn.net/100/331/067/products/199703027-4064530276988456-2878573000508708913-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/z2393413348427-a4fdeb11c6d7c676453e3ebf3dff4ccf.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/193968744-4064533503654800-8021456770797480463-n.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "BASIC SUPER SKINNY JEANS",
+      "maSanPham": "YGS61-BSSJ-PANT",
+      "mauSac": "Xám Jean",
+      "sanphamduocId": 6,
+      "loaisanphamId": 2,
+      "size": [
+        {
+          "sizeId": 1,
+          "soluong": 10
+        },
+        {
+          "soluong": 10,
+          "sizeId": 2
+        },
+        {
+          "sizeId": 3,
+          "soluong": 10
+        },
+        {
+          "sizeId": 4,
+          "soluong": 10
+        },
+        {
+          "sizeId": 5,
+          "soluong": 12
+        }
+      ],
+      "price": 450000,
+      "priceSale": 0,
+      "id": 62,
+      "img": [
+        "https://bizweb.dktcdn.net/100/331/067/products/122229619-2692385101013250-2527013019519175283-n.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "LOGO ESSENTIAL SWEATPANTS",
+      "maSanPham": "YGS62-LES-PANT",
+      "mauSac": "Đen",
+      "sanphamduocId": 6,
+      "loaisanphamId": 2,
+      "size": [
+        {
+          "sizeId": 1,
+          "soluong": 10
+        },
+        {
+          "soluong": 10,
+          "sizeId": 2
+        },
+        {
+          "sizeId": 3,
+          "soluong": 10
+        },
+        {
+          "sizeId": 4,
+          "soluong": 10
+        },
+        {
+          "sizeId": 5,
+          "soluong": 10
+        }
+      ],
+      "price": 350000,
+      "priceSale": 0,
+      "id": 63,
+      "img": [
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/198315527-4083230905118393-7677781329495654909-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/202073829-4083236395117844-7497919663787761983-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/202349581-4083231428451674-5212942192798125307-n.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "LOGO ESSENTIAL SWEATPANTS",
+      "maSanPham": "YGS63-LES-PANT",
+      "mauSac": "Xám",
+      "sanphamduocId": 6,
+      "loaisanphamId": 2,
+      "size": [
+        {
+          "sizeId": 1,
+          "soluong": 10
+        },
+        {
+          "soluong": 10,
+          "sizeId": 2
+        },
+        {
+          "sizeId": 3,
+          "soluong": 10
+        },
+        {
+          "sizeId": 4,
+          "soluong": 10
+        },
+        {
+          "sizeId": 5,
+          "soluong": 12
+        }
+      ],
+      "price": 350000,
+      "priceSale": 0,
+      "id": 64,
+      "img": [
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/120222284-1765004743655200-4115547429071490341-o.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/120272166-1765004713655203-173849041316450401-o.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/120456038-1765004696988538-1953748804825708967-o.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "CARGO SHORT",
+      "maSanPham": "YGS64-CS-PANT",
+      "mauSac": "Đen",
+      "sanphamduocId": 6,
+      "loaisanphamId": 2,
+      "size": [
+        {
+          "sizeId": 1,
+          "soluong": 10
+        },
+        {
+          "soluong": 10,
+          "sizeId": 2
+        },
+        {
+          "sizeId": 3,
+          "soluong": 10
+        },
+        {
+          "sizeId": 4,
+          "soluong": 10
+        }
+      ],
+      "price": 300000,
+      "priceSale": 0,
+      "id": 65,
+      "img": [
+        "https://bizweb.dktcdn.net/100/331/067/products/116016354-870874213422060-5862370013506413485-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/119124417-1747031175452557-8715495233985749956-o.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/119064346-1747031165452558-5062047064078680661-o.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "CROP LOCK PANT",
+      "maSanPham": "YGS65-CLP-PANT",
+      "mauSac": "Đen",
+      "sanphamduocId": 6,
+      "loaisanphamId": 2,
+      "size": [
+        {
+          "sizeId": 1,
+          "soluong": 10
+        },
+        {
+          "soluong": 10,
+          "sizeId": 2
+        },
+        {
+          "sizeId": 3,
+          "soluong": 10
+        },
+        {
+          "sizeId": 4,
+          "soluong": 10
+        }
+      ],
+      "price": 350000,
+      "priceSale": 139000,
+      "id": 66,
+      "img": [
+        "https://bizweb.dktcdn.net/100/331/067/products/140813312-2792612864287915-437944501940303585-n.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "Ripped Tapered Skinny Jeans",
+      "maSanPham": "YGS66-RTSJ-PANT",
+      "mauSac": "Đen",
+      "sanphamduocId": 6,
+      "loaisanphamId": 2,
+      "size": [
+        {
+          "sizeId": 1,
+          "soluong": 10
+        },
+        {
+          "soluong": 10,
+          "sizeId": 2
+        },
+        {
+          "sizeId": 3,
+          "soluong": 10
+        },
+        {
+          "sizeId": 4,
+          "soluong": 10
+        },
+        {
+          "sizeId": 5,
+          "soluong": 20
+        }
+      ],
+      "price": 400000,
+      "priceSale": 0,
+      "id": 67,
+      "img": [
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/49790879-544512102626006-7805034545631199232-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/49895476-2184935598427274-1775097064175173632-n-1.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/49696356-363892354406397-7518080766903844864-n.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "Ripped Skinny Fit Jeans",
+      "maSanPham": "YGS67-RSFJ-PANT",
+      "mauSac": "Đen",
+      "sanphamduocId": 6,
+      "loaisanphamId": 2,
+      "size": [
+        {
+          "sizeId": 1,
+          "soluong": 10
+        },
+        {
+          "soluong": 10,
+          "sizeId": 2
+        },
+        {
+          "sizeId": 3,
+          "soluong": 10
+        },
+        {
+          "sizeId": 4,
+          "soluong": 10
+        },
+        {
+          "sizeId": 5,
+          "soluong": 20
+        }
+      ],
+      "price": 400000,
+      "priceSale": 0,
+      "id": 68,
+      "img": [
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/0l6a1592-3de4e3f2-15d7-4019-8dcd-4d4482ea1866.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/15170809-725815624240789-2425839560116464290-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/15085693-725815614240790-7520736726213901726-n.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "Destroy Jeans Skinny",
+      "maSanPham": "YGS68-DJS-PANT",
+      "mauSac": "Đen",
+      "sanphamduocId": 6,
+      "loaisanphamId": 2,
+      "size": [
+        {
+          "sizeId": 1,
+          "soluong": 10
+        },
+        {
+          "soluong": 10,
+          "sizeId": 2
+        },
+        {
+          "sizeId": 3,
+          "soluong": 10
+        },
+        {
+          "sizeId": 4,
+          "soluong": 10
+        },
+        {
+          "sizeId": 5,
+          "soluong": 20
+        }
+      ],
+      "price": 400000,
+      "priceSale": 0,
+      "id": 69,
+      "img": [
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/47200284-2162686733973652-5848229496905269248-o-ea28bd44-6875-4eaa-9b71-f11328568d9e.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/44748468-1168084310013916-4165891013220499456-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/42914132-1128667827315709-3193907764644677257-n-501b4900-4ec0-484a-a7e5-6eaeb7224c93.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "SHORT SLEEVE SHIRT",
+      "maSanPham": "YGS69-SSS-SƠMI",
+      "mauSac": "Đen",
+      "sanphamduocId": 6,
+      "loaisanphamId": 5,
+      "size": [
+        {
+          "soluong": 10,
+          "sizeId": 2
+        },
+        {
+          "sizeId": 3,
+          "soluong": 10
+        },
+        {
+          "sizeId": 4,
+          "soluong": 10
+        },
+        {
+          "sizeId": 5,
+          "soluong": 20
+        }
+      ],
+      "price": 280000,
+      "priceSale": 0,
+      "id": 70,
+      "img": [
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/z2386016085545-d0cbba316cc2a0cc5fd16c5be44de547.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/153823574-255975079481434-4202887178464951880-o-1.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/152744524-255975159481426-7313865718739191647-o-1.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "BASIC TRAVELER SHIRT",
+      "maSanPham": "YGS70-BTS-SƠMI",
+      "mauSac": "Đen",
+      "sanphamduocId": 6,
+      "loaisanphamId": 5,
+      "size": [
+        {
+          "sizeId": 1,
+          "soluong": 10
+        },
+        {
+          "soluong": 10,
+          "sizeId": 2
+        },
+        {
+          "sizeId": 3,
+          "soluong": 10
+        },
+        {
+          "sizeId": 4,
+          "soluong": 10
+        }
+      ],
+      "price": 380000,
+      "priceSale": 0,
+      "id": 71,
+      "img": [
+        "https://bizweb.dktcdn.net/100/331/067/products/131267335-737200593855675-1192369586855953148-n.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "BASIC TRAVELER SHIRT",
+      "maSanPham": "YGS71-BTS-SƠMI",
+      "mauSac": "Trắng",
+      "sanphamduocId": 6,
+      "loaisanphamId": 5,
+      "size": [
+        {
+          "sizeId": 1,
+          "soluong": 20
+        },
+        {
+          "soluong": 20,
+          "sizeId": 2
+        },
+        {
+          "sizeId": 3,
+          "soluong": 20
+        },
+        {
+          "sizeId": 4,
+          "soluong": 10
+        }
+      ],
+      "price": 380000,
+      "priceSale": 0,
+      "id": 72,
+      "img": [
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/131894693-678815472763265-8326225066129804757-n.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "YG BACKPACK VER1",
+      "maSanPham": "YGS72-YBV-HOTDEAL",
+      "mauSac": "Đen",
+      "sanphamduocId": 4,
+      "size": [
+        {
+          "soluong": 10
+        }
+      ],
+      "loaisanphamId": 6,
+      "price": 350000,
+      "priceSale": 235000,
+      "id": 73,
+      "img": [
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/164287237-3834384680003018-4842203242794152591-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/156803546-1902074766614863-8537003949908188374-o.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "WASHED TEE",
+      "maSanPham": "YGS73-WT-HOTDEAL",
+      "mauSac": "Vàng",
+      "sanphamduocId": 4,
+      "loaisanphamId": 1,
+      "size": [
+        {
+          "sizeId": 1,
+          "soluong": 10
+        },
+        {
+          "sizeId": 2,
+          "soluong": 10
+        },
+        {
+          "sizeId": 3,
+          "soluong": 10
+        },
+        {
+          "sizeId": 4,
+          "soluong": 10
+        }
+      ],
+      "price": 260000,
+      "priceSale": 210000,
+      "id": 74,
+      "img": [
+        "https://bizweb.dktcdn.net/100/331/067/products/194885010-4027643930677091-8260464895795808729-n.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "CANVAS WALLET ORIGINAL",
+      "maSanPham": "YGS74-NEWARRIVAL1-PHUKIEN",
+      "mauSac": "Đen",
+      "sanphamduocId": 1,
+      "loaisanphamId": 6,
+      "size": [
+        {
+          "soluong": 10
+        }
+      ],
+      "price": 140000,
+      "priceSale": 0,
+      "id": 75,
+      "img": [
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/186450548-3963946543713497-2539248505142372777-n.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "WALLET LOGO",
+      "maSanPham": "YGS75-NEWARRIVAL2-PHUKIEN",
+      "mauSac": "Đen",
+      "sanphamduocId": 1,
+      "loaisanphamId": 6,
+      "size": [
+        {
+          "soluong": 10
+        }
+      ],
+      "price": 180000,
+      "priceSale": 0,
+      "id": 76,
+      "img": [
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/185990754-3963946657046819-3798211756506556689-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/178958681-1946784852143854-704856814666660801-n-jpeg.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/180468873-1946784858810520-3167712168731259857-n-jpeg.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "BACKPACK SS2 BASIC",
+      "maSanPham": "YGS76-NEWARRIVAL3-PHUKIEN",
+      "mauSac": "Đen",
+      "sanphamduocId": 1,
+      "loaisanphamId": 6,
+      "size": [
+        {
+          "soluong": 10
+        }
+      ],
+      "price": 450000,
+      "priceSale": 0,
+      "id": 77,
+      "img": [
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/179798966-3916855388422613-1890997375331189669-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/176922289-3916855525089266-3425375548014059789-n.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "TURBAN",
+      "maSanPham": "YGS77-NEWARRIVAL4-PHUKIEN",
+      "mauSac": "Caro",
+      "sanphamduocId": 1,
+      "loaisanphamId": 6,
+      "size": [
+        {
+          "soluong": 10
+        }
+      ],
+      "price": 25000,
+      "priceSale": 0,
+      "id": 78,
+      "img": [
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/o1cn01qyy4oc1ncicjz4ery-3982251591.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/133262489-1848067302015610-3957030281134474969-o-67acb43f-db10-4002-8f17-2db4adc45cc3.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/132805566-1848068798682127-5126421977418916019-o-772c9a71-76f2-4c08-b4b1-e5ce13c02635.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "MINI BAG SSO2",
+      "maSanPham": "YGS78-MBS-PHUKIEN",
+      "mauSac": "Đen",
+      "sanphamduocId": 6,
+      "loaisanphamId": 6,
+      "size": [
+        {
+          "soluong": 10
+        }
+      ],
+      "price": 260000,
+      "priceSale": 0,
+      "id": 79,
+      "img": [
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/123322278-3442286799212810-4938590167990007574-o.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "YG Mini Bag SS01",
+      "maSanPham": "YGS79-NEWARRIVAL5-PHUKIEN",
+      "mauSac": "Đen",
+      "sanphamduocId": 1,
+      "loaisanphamId": 6,
+      "size": [
+        {
+          "soluong": 10
+        }
+      ],
+      "price": 300000,
+      "priceSale": 0,
+      "id": 80,
+      "img": [
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/106898123-617933248828634-1459477789127921432-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/107762603-609767182992629-6522840479119549642-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/106700923-1584384348410377-6392650970304106429-n.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "YG Shoulder Bag",
+      "maSanPham": "YGS80-YSB-PHUKIEN",
+      "mauSac": "Đen",
+      "sanphamduocId": 6,
+      "loaisanphamId": 6,
+      "size": [
+        {
+          "soluong": 10
+        }
+      ],
+      "price": 260000,
+      "priceSale": 0,
+      "id": 81,
+      "img": [
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/106802323-522173951810207-5608440616358559873-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/106206584-1679402502215425-2885094616082793613-o.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/106780583-299783634482938-8247745337005061593-n.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "GENTLE MONSTER GLASSES",
+      "maSanPham": "YGS81-GMG-PHUKIEN",
+      "mauSac": "Đen",
+      "sanphamduocId": 6,
+      "loaisanphamId": 6,
+      "size": [
+        {
+          "soluong": 10
+        }
+      ],
+      "price": 150000,
+      "priceSale": 0,
+      "id": 82,
+      "img": [
+        "https://bizweb.dktcdn.net/100/331/067/products/116583304-589362291638552-7702961952136836677-n-4c08c3f2-89d0-42cf-bf66-46078ea55768.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/45698918-1178801688942178-7018621171830620160-o.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/115954662-648639375759788-2919671884351021692-n-0390a45f-7a29-4867-972d-8db3f3fd17b3.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "Pearls Glasses",
+      "maSanPham": "YGS82-PG-PHUKIEN",
+      "mauSac": "Đen",
+      "sanphamduocId": 6,
+      "loaisanphamId": 6,
+      "size": [
+        {
+          "soluong": 10
+        }
+      ],
+      "price": 130000,
+      "priceSale": 0,
+      "id": 83,
+      "img": [
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/76642394-1455827834572894-6741015084480331776-o.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/75327082-1455827847906226-341504484771364864-o.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/74493644-1455828471239497-4314697941966127104-o.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "Clubmaster Glasses",
+      "maSanPham": "YGS83-CG-PHUKIEN",
+      "mauSac": "Đen",
+      "sanphamduocId": 6,
+      "loaisanphamId": 6,
+      "size": [
+        {
+          "soluong": 10
+        }
+      ],
+      "price": 130000,
+      "priceSale": 0,
+      "id": 84,
+      "img": [
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/73541624-2169357343368800-1997433188783226880-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/o1cn01gpefi51p61ba7qxfe-601955310.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/52487979-2126306177680608-4794838052587438080-n-7b558830-1169-4679-8920-d81c6ca62f00.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "Role Glasses",
+      "maSanPham": "YGS84-RG-PHUKIEN",
+      "mauSac": "Trong suốt",
+      "sanphamduocId": 6,
+      "loaisanphamId": 6,
+      "size": [
+        {
+          "soluong": 10
+        }
+      ],
+      "price": 130000,
+      "priceSale": 0,
+      "id": 85,
+      "img": [
+        "https://bizweb.dktcdn.net/100/331/067/products/75540125-430560267653497-3092716588760039424-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/48952592-663130467417217-5951805854473781248-n-568ed1f7-363a-410e-b224-677004e5f44d.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/48989501-368763500550694-7108978260012171264-n-4c3f482e-1b31-4b30-b404-5bbbc3571476.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "Nón bảo hiểm YG SHOP",
+      "maSanPham": "YGS85-NON-NON",
+      "mauSac": "Đỏ",
+      "sanphamduocId": 6,
+      "loaisanphamId": 7,
+      "size": [
+        {
+          "soluong": 10
+        }
+      ],
+      "price": 250000,
+      "priceSale": 0,
+      "id": 86,
+      "img": [
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/z2256317063839-21d36cc63dc94d84be62d8bbd6b9362c.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "VGS LOGO CAP",
+      "maSanPham": "YGS86-VLC-NON",
+      "mauSac": "Đen",
+      "sanphamduocId": 6,
+      "loaisanphamId": 7,
+      "size": [
+        {
+          "soluong": 10
+        }
+      ],
+      "price": 250000,
+      "priceSale": 0,
+      "id": 87,
+      "img": [
+        "https://bizweb.dktcdn.net/100/331/067/products/139959224-1395106704164230-5026900888936934245-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/140690771-3655618231212998-1785398846442553778-o.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/142715443-3655618067879681-6510033581579512708-o.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "VGS LOGO CAP",
+      "maSanPham": "YGS87-VLC-NON",
+      "mauSac": "Trắng",
+      "sanphamduocId": 6,
+      "loaisanphamId": 7,
+      "size": [
+        {
+          "soluong": 10
+        }
+      ],
+      "price": 250000,
+      "priceSale": 0,
+      "id": 88,
+      "img": [
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/140282866-1363198447470171-7915802522207568944-n.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/141922115-3655618597879628-2871600423051654358-o.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/141710481-3655618484546306-6249340713895854107-o.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "BUCKET HAT",
+      "maSanPham": "YGS88-BH-NON",
+      "mauSac": "Đen",
+      "sanphamduocId": 6,
+      "loaisanphamId": 7,
+      "size": [
+        {
+          "soluong": 10
+        }
+      ],
+      "price": 170000,
+      "priceSale": 0,
+      "id": 89,
+      "img": [
+        "https://bizweb.dktcdn.net/100/331/067/products/139675846-2803959199878489-3116093925676908970-n.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "BUCKET HAT",
+      "maSanPham": "YGS89-BH-NON",
+      "mauSac": "Trắng",
+      "sanphamduocId": 6,
+      "loaisanphamId": 7,
+      "size": [
+        {
+          "soluong": 10
+        }
+      ],
+      "price": 170000,
+      "priceSale": 0,
+      "id": 90,
+      "img": [
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/139862382-1397941563921831-8747563277277305025-n.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "BUCKET HAT",
+      "maSanPham": "YGS90-BH-NON",
+      "mauSac": "Tan",
+      "sanphamduocId": 6,
+      "loaisanphamId": 7,
+      "size": [
+        {
+          "soluong": 10
+        }
+      ],
+      "price": 170000,
+      "priceSale": 0,
+      "id": 91,
+      "img": [
+        "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/141203850-1147031072394164-7184580184266998934-n.jpg"
+      ]
+    },
+    {
+      "tenSanPham": "Cap Daisy",
+      "maSanPham": "YGS91-CD-NON",
+      "mauSac": "Đen",
+      "sanphamduocId": 6,
+      "loaisanphamId": 7,
+      "size": [
+        {
+          "soluong": 10
+        }
+      ],
+      "price": 90000,
+      "priceSale": 79000,
+      "id": 92,
+      "img": [
+        "https://bizweb.dktcdn.net/100/331/067/products/75540064-459663308006164-209722454199762944-n.jpg"
+      ]
+    }
+  ],
+  "oders": [
+    {
+      "email": "truonghoanghuy98@gmail.com",
+      "fullName": "Trương Hoàng Huy",
+      "phoneNumber": "0793329299",
+      "address": "46 Hàn Thuyên",
+      "city": "Thành phố Đà Nẵng",
+      "district": "Quận Hải Châu",
+      "noteCustomer": "Giao đến cửa",
+      "transMethod": "Đường bộ",
+      "methodPay": "𝚃𝚑𝚊𝚗𝚑 𝚝𝚘𝚊́𝚗 𝚔𝚑𝚒 𝚜𝚑𝚒𝚙 (𝙲𝙾𝙳)",
+      "totalAll": 1299000,
+      "listGioHang": [
+        {
+          "sizeId": 2,
+          "mauSac": "Đen",
+          "id": 1,
+          "img": [
+            "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/193195028-4027643750677109-6063018326773296611-n.jpg",
+            "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/193251159-4027643524010465-1341950353081561262-n.jpg",
+            "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/1.jpg"
+          ],
+          "tenSanPham": "YOUNG SKULL TEE",
+          "maSanPham": "NEWARRIVAL2-T-SHIRT-2",
+          "price": 300000,
+          "soluong": 1
+        },
+        {
+          "sizeId": 2,
+          "mauSac": "Đen Trắng",
+          "id": 14,
+          "img": [
+            "https://bizweb.dktcdn.net/100/331/067/products/177998217-3919208154854003-7440469753643571064-n.jpg",
+            "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/o1cn01a4hokd1jfaipfrlvx-2209499510999.jpg",
+            "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/o1cn01kmpvyz1jfaijab6gp-2209499510999.jpg"
+          ],
+          "tenSanPham": "ESSENTIALS STRIPES PANTS",
+          "maSanPham": "YGS13-ESP-Đ",
+          "price": 320000,
+          "soluong": 1
+        },
+        {
+          "sizeId": 4,
+          "mauSac": "Đen Trắng",
+          "id": 14,
+          "img": [
+            "https://bizweb.dktcdn.net/100/331/067/products/177998217-3919208154854003-7440469753643571064-n.jpg",
+            "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/o1cn01a4hokd1jfaipfrlvx-2209499510999.jpg",
+            "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/o1cn01kmpvyz1jfaijab6gp-2209499510999.jpg"
+          ],
+          "tenSanPham": "ESSENTIALS STRIPES PANTS",
+          "maSanPham": "YGS13-ESP-Đ",
+          "price": 320000,
+          "soluong": 2
+        }
+      ],
+      "user_current": 3,
+      "dateFormat": "31-07-2021 07:42:38",
+      "id": 1
+    },
+    {
+      "email": "truonghoanghuy98@gmail.com",
+      "fullName": "Huy Hoàng",
+      "phoneNumber": "0793329299",
+      "address": "46 Hàn Thuyên",
+      "city": "Thành phố Đà Nẵng",
+      "district": "Quận Hải Châu",
+      "noteCustomer": "Giao đến cửa",
+      "transMethod": "Đường bộ",
+      "methodPay": "𝚃𝚑𝚊𝚗𝚑 𝚝𝚘𝚊́𝚗 𝚔𝚑𝚒 𝚜𝚑𝚒𝚙 (𝙲𝙾𝙳)",
+      "totalAll": 879000,
+      "listGioHang": [
+        {
+          "sizeId": 3,
+          "mauSac": "Trắng",
+          "id": 2,
+          "img": [
+            "https://bizweb.dktcdn.net/100/331/067/products/202153838-4072352499539567-8994935730794668763-n.jpg",
+            "https://bizweb.dktcdn.net/100/331/067/products/ae957d29ae3c5a62032d.jpg?v=1624211434423",
+            "https://bizweb.dktcdn.net/100/331/067/products/202176868-1984550635033942-8958530080723965995-n-1.jpg?v=1624211489827"
+          ],
+          "tenSanPham": "FACE TEE OVERSIZED",
+          "maSanPham": "NEWARRIVAL1-T-SHIRT-1",
+          "price": 300000,
+          "soluong": 1
+        },
+        {
+          "sizeId": 2,
+          "mauSac": "Trắng đen",
+          "id": 4,
+          "img": [
+            "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/196262684-4027643820677102-5666876723781663329-n.jpg",
+            "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/191308646-4016118455162972-8049609278080631002-n.jpg"
+          ],
+          "tenSanPham": "BASIC STRIPED TEE",
+          "maSanPham": "NEWARRIVAL4-T-SHIRT-4",
+          "price": 270000,
+          "soluong": 2
+        }
+      ],
+      "user_current": 4,
+      "dateFormat": "31-07-2021 10:12:06",
+      "id": 2
+    }
+  ],
+  "messageOrders": [
+    {
+      "email": "truonghoanghuy98@gmail.com",
+      "fullName": "Trương Hoàng Huy",
+      "phoneNumber": "0793329299",
+      "address": "46 Hàn Thuyên",
+      "city": "Thành phố Đà Nẵng",
+      "district": "Quận Hải Châu",
+      "noteCustomer": "Giao đến cửa",
+      "transMethod": "Đường bộ",
+      "methodPay": "𝚃𝚑𝚊𝚗𝚑 𝚝𝚘𝚊́𝚗 𝚔𝚑𝚒 𝚜𝚑𝚒𝚙 (𝙲𝙾𝙳)",
+      "totalAll": 1299000,
+      "listGioHang": [
+        {
+          "sizeId": 2,
+          "mauSac": "Đen",
+          "id": 1,
+          "img": [
+            "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/193195028-4027643750677109-6063018326773296611-n.jpg",
+            "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/193251159-4027643524010465-1341950353081561262-n.jpg",
+            "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/1.jpg"
+          ],
+          "tenSanPham": "YOUNG SKULL TEE",
+          "maSanPham": "NEWARRIVAL2-T-SHIRT-2",
+          "price": 300000,
+          "soluong": 1
+        },
+        {
+          "sizeId": 2,
+          "mauSac": "Đen Trắng",
+          "id": 14,
+          "img": [
+            "https://bizweb.dktcdn.net/100/331/067/products/177998217-3919208154854003-7440469753643571064-n.jpg",
+            "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/o1cn01a4hokd1jfaipfrlvx-2209499510999.jpg",
+            "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/o1cn01kmpvyz1jfaijab6gp-2209499510999.jpg"
+          ],
+          "tenSanPham": "ESSENTIALS STRIPES PANTS",
+          "maSanPham": "YGS13-ESP-Đ",
+          "price": 320000,
+          "soluong": 1
+        },
+        {
+          "sizeId": 4,
+          "mauSac": "Đen Trắng",
+          "id": 14,
+          "img": [
+            "https://bizweb.dktcdn.net/100/331/067/products/177998217-3919208154854003-7440469753643571064-n.jpg",
+            "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/o1cn01a4hokd1jfaipfrlvx-2209499510999.jpg",
+            "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/o1cn01kmpvyz1jfaijab6gp-2209499510999.jpg"
+          ],
+          "tenSanPham": "ESSENTIALS STRIPES PANTS",
+          "maSanPham": "YGS13-ESP-Đ",
+          "price": 320000,
+          "soluong": 2
+        }
+      ],
+      "user_current": 3,
+      "dateFormat": "31-07-2021 07:42:38",
+      "id": 1
+    },
+    {
+      "email": "truonghoanghuy98@gmail.com",
+      "fullName": "Huy Hoàng",
+      "phoneNumber": "0793329299",
+      "address": "46 Hàn Thuyên",
+      "city": "Thành phố Đà Nẵng",
+      "district": "Quận Hải Châu",
+      "noteCustomer": "Giao đến cửa",
+      "transMethod": "Đường bộ",
+      "methodPay": "𝚃𝚑𝚊𝚗𝚑 𝚝𝚘𝚊́𝚗 𝚔𝚑𝚒 𝚜𝚑𝚒𝚙 (𝙲𝙾𝙳)",
+      "totalAll": 879000,
+      "listGioHang": [
+        {
+          "sizeId": 3,
+          "mauSac": "Trắng",
+          "id": 2,
+          "img": [
+            "https://bizweb.dktcdn.net/100/331/067/products/202153838-4072352499539567-8994935730794668763-n.jpg",
+            "https://bizweb.dktcdn.net/100/331/067/products/ae957d29ae3c5a62032d.jpg?v=1624211434423",
+            "https://bizweb.dktcdn.net/100/331/067/products/202176868-1984550635033942-8958530080723965995-n-1.jpg?v=1624211489827"
+          ],
+          "tenSanPham": "FACE TEE OVERSIZED",
+          "maSanPham": "NEWARRIVAL1-T-SHIRT-1",
+          "price": 300000,
+          "soluong": 1
+        },
+        {
+          "sizeId": 2,
+          "mauSac": "Trắng đen",
+          "id": 4,
+          "img": [
+            "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/196262684-4027643820677102-5666876723781663329-n.jpg",
+            "https://bizweb.dktcdn.net/thumb/large/100/331/067/products/191308646-4016118455162972-8049609278080631002-n.jpg"
+          ],
+          "tenSanPham": "BASIC STRIPED TEE",
+          "maSanPham": "NEWARRIVAL4-T-SHIRT-4",
+          "price": 270000,
+          "soluong": 2
+        }
+      ],
+      "user_current": 4,
+      "dateFormat": "31-07-2021 10:12:06",
+      "id": 2
+    }
+  ],
+  "comment": [
+    {
+      "comment": "Sản phẩm rất tốt vải tốt, form áo rộng rãi !",
+      "rate": 5,
+      "dataAccount": {
+        "tenNguoiDung": "Trương Hoàng Huy",
+        "user": "hoanghuy@gmail.com",
+        "gioiTinh": "Nam",
+        "soDienThoai": "793329299",
+        "matKhau": "202cb962ac59075b964b07152d234b70",
+        "xacNhanMatKhau": "202cb962ac59075b964b07152d234b70",
+        "matKhauGoc": null,
+        "ngayTaoBanGhi": "26/07/2021 18:02:09 ",
+        "quyen": "KhachHang",
+        "id": 2,
+        "img": "https://img.icons8.com/bubbles/2x/user-male.png",
+        "checkToken": true
+      },
+      "dateFormat": "26-07-2021 20:47:41",
+      "id": 1
+    }
+  ]
+}
